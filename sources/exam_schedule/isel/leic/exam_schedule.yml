@@ -1,7 +1,7 @@
 # Exam schedule
 school:
     - name: Instituto Superior Engenharia Lisboa 
-      acr: ISEL (optional)
+      acr: ISEL
 programme:
     - name: Licenciatura em Engenharia Informática e de Computadores
       acr: LEIC
