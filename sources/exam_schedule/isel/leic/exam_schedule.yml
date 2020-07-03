@@ -1,0 +1,153 @@
+# Exam schedule
+school:
+    - name: Instituto Superior Engenharia Lisboa 
+      acr: ISEL
+programme:
+    - name: Licenciatura em Engenharia Informática e de Computadores
+      acr: LEIC
+academicYear: 2019/2020
+exams:
+    - name: AED
+      date: 2020-07-09T14:00:00.000
+      location: 
+    - name: AED
+      date: 2020-09-03T19:00:00.000
+      location: 
+    - name: AED
+      date: 2020-09-17T19:00:00.000
+      location: 
+    - name: ALGA
+      date: 2020-07-22T14:00:00.000
+      location: 
+    - name: ALGA
+      date: 2020-09-12T10:00:00.000
+      location: 
+    - name: ALGA
+      date: 2020-09-24T19:00:00.000
+      location: 
+    - name: COM
+      date: 2020-07-17T19:00:00.000
+      location: 
+    - name: COM
+      date: 2020-09-09T14:00:00.000
+      location: 
+    - name: COM
+      date: 2020-09-23T19:00:00.000
+      location: 
+    - name: CSM
+      date: 2020-07-22T19:00:00.000
+      location: 
+    - name: CSM
+      date: 2020-09-04T10:00:00.000
+      location: 
+    - name: CSM
+      date: 2020-09-16T19:00:00.000
+      location: 
+    - name: EGP
+      date: 2020-07-27T19:00:00.000
+      location: 
+    - name: EGP
+      date: 2020-09-11T10:00:00.000
+      location: 
+    - name: EGP
+      date: 2020-09-21T19:00:00.000
+      location: 
+    - name: GAP
+      date: 2020-07-15T10:00:00.000
+      location: 
+    - name: GAP
+      date: 2020-09-10T10:00:00.000
+      location: 
+    - name: GAP
+      date: 2020-09-24T10:00:00.000
+      location: 
+    - name: IA
+      date: 2020-07-14T14:00:00.000
+      location: 
+    - name: IA
+      date: 2020-09-01T14:00:00.000
+      location: 
+    - name: IA
+      date: 2020-09-14T14:00:00.000
+      location: 
+    - name: M1
+      date: 2020-07-16T19:00:00.000
+      location: 
+    - name: M1
+      date: 2020-08-31T14:00:00.000
+      location: 
+    - name: M1
+      date: 2020-09-15T14:00:00.000
+      location: 
+    - name: M2
+      date: 2020-07-07T14:00:00.000
+      location: 
+    - name: M2
+      date: 2020-09-01T19:00:00.000
+      location: 
+    - name: M2
+      date: 2020-09-18T19:00:00.000
+      location: 
+    - name: PE
+      date: 2020-07-20T14:00:00.000
+      location: 
+    - name: PE
+      date: 2020-09-10T19:00:00.000
+      location: 
+    - name: PE
+      date: 2020-09-14T19:00:00.000
+      location: 
+    - name: PG
+      date: 2020-07-03T19:00:00.000
+      location: 
+    - name: PG
+      date: 2020-09-08T14:00:00.000
+      location: 
+    - name: PG
+      date: 2020-09-26T10:00:00.000
+      location: 
+    - name: POO
+      date: 2020-07-13T14:00:00.000
+      location: 
+    - name: POO
+      date: 2020-09-07T19:00:00.000
+      location: 
+    - name: POO
+      date: 2020-09-23T14:00:00.000
+      location: 
+    - name: RCp
+      date: 2020-07-08T14:00:00.000
+      location: 
+    - name: RCp
+      date: 2020-09-08T19:00:00.000
+      location: 
+    - name: RCp
+      date: 2020-09-25T19:00:00.000
+      location: 
+    - name: SI1
+      date: 2020-06-29T14:00:00.000
+      location: 
+    - name: SI1
+      date: 2020-08-31T19:00:00.000
+      location: 
+    - name: SI1
+      date: 2020-09-15T10:00:00.000
+      location: 
+    - name: SI2
+      date: 2020-07-07T14:00:00.000
+      location: 
+    - name: SI2
+      date: 2020-09-04T19:00:00.000
+      location: 
+    - name: SI2
+      date: 2020-09-15T19:00:00.000
+      location: 
+    - name: TJ
+      date: 2020-07-03T10:00:00.000
+      location: 
+    - name: TJ
+      date: 2020-09-02T10:00:00.000
+      location: 
+    - name: TJ
+      date: 2020-09-16T10:00:00.000
+      location: 
