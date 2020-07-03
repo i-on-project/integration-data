@@ -1,0 +1,54 @@
+# Exam schedule
+school:
+    - name: Instituto Superior Engenharia Lisboa 
+      acr: ISEL (optional)
+programme:
+    - name: Mestrado em Engenharia Informática e de Computadores
+      acr: MEIC
+academicYear: 2019/2020
+exams:
+    - name: GSI
+      date: 2020-07-23T19:00:00.000
+      location: 
+    - name: GSI
+      date: 2020-09-10T19:00:00.000
+      location: 
+    - name: GSI
+      date: 2020-09-14T19:00:00.000
+      location: 
+    - name: IESD
+      date: 2020-06-29T19:00:00.000
+      location: 
+    - name: IESD
+      date: 2020-09-01T10:00:00.000
+      location: 
+    - name: IESD
+      date: 2020-09-18T19:00:00.000
+      location: 
+    - name: IoT
+      date: 2020-07-16T10:00:00.000
+      location: 
+    - name: IoT
+      date: 2020-09-09T19:00:00.000
+      location: 
+    - name: IoT
+      date: 2020-09-16T14:00:00.000
+      location: 
+    - name: RCMov
+      date: 2020-07-13T19:00:00.000
+      location: 
+    - name: RCMov
+      date: 2020-09-08T10:00:00.000
+      location: 
+    - name: RCMov
+      date: 2020-09-23T19:00:00.000
+      location: 
+    - name: SRC
+      date: 2020-07-03T10:00:00.000
+      location: 
+    - name: SRC
+      date: 2020-09-04T19:00:00.000
+      location: 
+    - name: SRC
+      date: 2020-09-25T10:00:00.000
+      location: 
