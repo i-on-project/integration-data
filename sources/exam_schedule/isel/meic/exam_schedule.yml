@@ -1,10 +1,10 @@
 # Exam schedule
 school:
-    - name: Instituto Superior Engenharia Lisboa 
-      acr: ISEL
+    name: Instituto Superior Engenharia Lisboa 
+    acr: ISEL
 programme:
-    - name: Mestrado em Engenharia Informática e de Computadores
-      acr: MEIC
+    name: Mestrado em Engenharia Informática e de Computadores
+    acr: MEIC
 academicYear: 2019/2020
 exams:
     - name: GSI
