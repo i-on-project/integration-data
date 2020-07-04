@@ -5,26 +5,26 @@ school:
 academicYear: 2019/2020
 terms:
   - name: Semestre de Inverno
+    interruptions:
+      - name: Férias Natal
+        startDate: 2019-12-23
+        endDate: 2020-01-04
+    evaluations:
+      - name: Exames época normal
+        startDate: 2020-01-13
+        endDate: 2020-02-01
+      - name: Exames época recurso
+        startDate: 2020-02-03
+        endDate: 2020-02-15
+      - name: Exames época especial
+        startDate: 2020-02-26
+        endDate: 2020-03-07
     details:
       - name: Turmas 1º Semestre
         curricularTerm:
           - id: 1
         startDate: 2019-09-16
         endDate: 2020-01-11
-        interruptions:
-          - name: Férias Natal
-            startDate: 2019-12-23
-            endDate: 2020-01-04
-        evaluations:
-          - name: Exames época normal
-            startDate: 2020-01-13
-            endDate: 2020-02-01
-          - name: Exames época recurso
-            startDate: 2020-02-03
-            endDate: 2020-02-15
-          - name: Exames época especial
-            startDate: 2020-02-26
-            endDate: 2020-03-07
       - name: Turmas excepto 1º Semestre
         curricularTerm:
           - id: 2
@@ -34,20 +34,6 @@ terms:
           - id: 6
         startDate: 2019-09-09
         endDate: 2020-12-21
-        interruptions:
-          - name: Férias Natal
-            startDate: 2019-12-23
-            endDate: 2020-01-04
-        evaluations:
-          - name: Exames época normal
-            startDate: 2020-01-13
-            endDate: 2020-02-01
-          - name: Exames época recruso
-            startDate: 2020-02-03
-            endDate: 2020-02-15
-          - name: Exames época especial
-            startDate: 2020-02-26
-            endDate: 2020-03-07
     otherEvents:
       - name: Divulgação de horários
         startDate: 2019-07-22
@@ -62,6 +48,23 @@ terms:
         startDate: 2020-03-14
         endDate: 2020-03-14
   - name: Semestre de Verão
+    interruptions:
+      - name: Carnaval
+        startDate: 2020-02-24
+        endDate: 2020-02-25
+      - name: Páscoa
+        startDate: 2020-04-06
+        endDate: 2020-04-13
+    evaluations:
+      - name: Exames época normal
+        startDate: 2020-06-29
+        endDate: 2020-07-31
+      - name: Exames época recurso
+        startDate: 2020-08-31
+        endDate: 2020-09-12
+      - name: Exames época especial
+        startDate: 2020-09-14
+        endDate: 2020-09-26
     details:
       - name: Todas as turmas
         curricularTerm:
@@ -73,23 +76,6 @@ terms:
           - id: 6
         startDate: 2020-02-26
         endDate: 2020-06-20
-        interruptions:
-          - name: Carnaval
-            startDate: 2020-02-24
-            endDate: 2020-02-25
-          - name: Páscoa
-            startDate: 2020-04-06
-            endDate: 2020-04-13
-        evaluations:
-          - name: Exames época normal
-            startDate: 2020-06-29
-            endDate: 2020-07-31
-          - name: Exames época recurso
-            startDate: 2020-08-31
-            endDate: 2020-09-12
-          - name: Exames época especial
-            startDate: 2020-09-14
-            endDate: 2020-09-26
     otherEvents:
       - name: Divulgação de horários
         startDate: 2020-02-12
