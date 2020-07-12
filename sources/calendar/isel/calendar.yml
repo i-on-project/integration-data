@@ -2,9 +2,8 @@
 school:
   name: Instituto Superior Engenharia Lisboa 
   acr: ISEL
-academicYear: 2019/2020
 terms:
-  - name: Semestre de Inverno
+  - calendarTerm: 1920i
     interruptions:
       - name: Férias Natal
         startDate: 2019-12-23
@@ -13,12 +12,15 @@ terms:
       - name: Exames época normal
         startDate: 2020-01-13
         endDate: 2020-02-01
+        duringLectures: false
       - name: Exames época recurso
         startDate: 2020-02-03
         endDate: 2020-02-15
+        duringLectures: false
       - name: Exames época especial
         startDate: 2020-02-26
         endDate: 2020-03-07
+        duringLectures: true
     details:
       - name: Turmas 1º Semestre
         curricularTerm:
@@ -33,7 +35,7 @@ terms:
           - id: 5
           - id: 6
         startDate: 2019-09-09
-        endDate: 2020-12-21
+        endDate: 2019-12-21
     otherEvents:
       - name: Divulgação de horários
         startDate: 2019-07-22
@@ -47,7 +49,7 @@ terms:
       - name: Data limite para lançamento de classificações no Portal Académico (época especial)
         startDate: 2020-03-14
         endDate: 2020-03-14
-  - name: Semestre de Verão
+  - calendarTerm: 1920v
     interruptions:
       - name: Carnaval
         startDate: 2020-02-24
@@ -59,12 +61,15 @@ terms:
       - name: Exames época normal
         startDate: 2020-06-29
         endDate: 2020-07-31
+        duringLectures: false
       - name: Exames época recurso
         startDate: 2020-08-31
         endDate: 2020-09-12
+        duringLectures: false
       - name: Exames época especial
         startDate: 2020-09-14
         endDate: 2020-09-26
+        duringLectures: false
     details:
       - name: Todas as turmas
         curricularTerm:
