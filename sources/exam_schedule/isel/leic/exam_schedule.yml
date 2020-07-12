@@ -5,7 +5,7 @@ school:
 programme:
     name: Licenciatura em Engenharia Informática e de Computadores
     acr: LEIC
-academicYear: 2019/2020
+calendarTerm: 12019/20-Verão
 exams:
     - name: AED
       startDate: 2020-07-09T14:00:00.000
