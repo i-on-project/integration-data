@@ -7,9 +7,12 @@ I-On Integration is a sub-project of the initiative and its main goal is to coll
 
 This repository holds the strutured data made available by I-On Integration making it available to other I-On sub-projects.
 
+# Data Structure
+
 The following diagram depics the structure defined to maintain the data.
 
-![Data Structure](https://raw.githubusercontent.com/i-on-project/integration-data/master/img/I-On_Integration-Data_Structure.png)
+<!--- ![Data Structure](https://raw.githubusercontent.com/i-on-project/integration-data/master/img/I-On_Integration-Data_Structure.png) --->
+![Data Structure](./img/I-On_Integration-Data_Structure.png)
 
 # Resources
 * List of Academic Institutions in Portugal:
