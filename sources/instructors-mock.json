@@ -1,0 +1,55 @@
+{
+  "school": {
+    "name": "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA",
+    "acr": "ISEL"
+  },
+  "programme": {
+    "name": "Licenciatura em Engenharia Informática e de Computadores",
+    "acr": "LEIC"
+  },
+  "calendarTerm": "2020/21-Verão",
+  "calendarSection": "LEIC11Da",
+  "courses": [
+    {
+      "label": {
+        "acr": "E"
+      },
+      "teachers": [
+        {
+          "name": "João Manuel Ferreira Martins",
+          "category": 2
+        },
+        {
+          "name": "João Manuel Ferreira Martins",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "label": {
+        "acr": "LSD"
+      },
+      "teachers": [
+        {
+          "name": "José Manuel Bagarrão Paraíso",
+          "category": 2
+        },
+        {
+          "name": "José Manuel Bagarrão Paraíso",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "label": {
+        "acr": "Pg"
+      },
+      "teachers": [
+        {
+          "name": "Pedro Alexandre Seia Cunha Ribeiro Pereira",
+          "category": 1
+        }
+      ]
+    }
+  ]
+}
