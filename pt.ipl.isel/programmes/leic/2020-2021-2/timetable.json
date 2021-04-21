@@ -1,4 +1,6 @@
 {
+  "creationDateTime": "20210421T204916Z",
+  "retrievalDateTime": "20210421T204916Z",  
   "school": {
     "name": "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA",
     "acr": "ISEL"
@@ -8,7 +10,7 @@
     "acr": "LEIC"
   },
   "calendarTerm": "2020/21-Verão",
-  "courses": [
+  "classes": [
     {
       "class": {
         "acr": "E",

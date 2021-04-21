@@ -20,13 +20,15 @@ Each school will have a folder with the academic year containing that year's aca
 The `timetable.yml` file will be formatted as follows: 
 
 ```yml
+creationDateTime: 20210421T204916Z      # Coordinated Universal Time (UTC) - ISO 8601
+retrievalDateTime: 20210421T204916Z      # Coordinated Universal Time (UTC) - ISO 8601
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: ISEL
 programme:
   name: "Licenciatura em Engenharia Informática e de Computadores"
   acr: LEIC
-calendarTerm: 2020/21-Verão
+calendarTerm: 2020-2021-2
 courses:
   - class: 
       acr: E  # class acronym

@@ -1,11 +1,13 @@
+creationDateTime: 20210421T204916Z
+retrievalDateTime: 20210421T204916Z      
 school:
   name: INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA
   acr: ISEL
 programme:
   name: Licenciatura em Engenharia Informática e de Computadores
   acr: LEIC
-calendarTerm: 2020/21-Verão
-courses:
+calendarTerm: 2020-2021-2
+classes:
   - class:
       acr: E
       sections:
