@@ -51,7 +51,7 @@ terms:
       - name: Data limite para lançamento de classificações no Portal Académico (época especial)
         startDate: 2020-03-14
         endDate: 2020-03-14
-  - calendarTerm: 1920v
+  - calendarTerm: 2019-2020-2
     interruptions:
       - name: Carnaval
         startDate: 2020-02-24
