@@ -8,8 +8,7 @@ programme:
   acr: LEIC
 calendarTerm: 2020-2021-2
 classes:
-  - class:
-      acr: E
+  -   acr: E
       sections:
         - section: LEIC11Da
           events:
@@ -108,8 +107,7 @@ classes:
               category: PRACTICE
             - name: Fernando dos Santos Azevedo
               category: LECTURE
-  - class:
-      acr: LSD
+  -   acr: LSD
       sections:
         - section: LEIC11Na
           events:
@@ -132,8 +130,7 @@ classes:
               category: PRACTICE
             - name: Manuel José Ferreira Carneiro Mendonça
               category: LECTURE
-  - class:
-      acr: Pg
+  -   acr: Pg
       sections:
         - section: LEIC11Na
           events:
@@ -152,8 +149,7 @@ classes:
           instructors:
             - name: Pedro Alexandre Seia Cunha Ribeiro Pereira
               category: LECTURE
-  - class:
-      acr: ALGA
+  -   acr: ALGA
       sections:
         - section: LEIC21Da
           events:
@@ -176,8 +172,7 @@ classes:
               category: PRACTICE
             - name: Laura Cristina Teixeira Iglésias Charters D'Azevedo
               category: LECTURE-PRACTICE
-  - class:
-      acr: LIC
+  -   acr: LIC
       sections:
         - section: LEIC21Da
           events:
