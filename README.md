@@ -15,7 +15,7 @@ The following diagram depics the structure defined to maintain the data.
 
 The name of the folders for the schools will be based on the package naming prefix used by Java using the reversed Internet domain name for each institution qualified name.
 
-Each school will have a folder with the academic year containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes breaked down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
+Each school will have a folder `academic_years`with the several academic years containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes breaked down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
 
 
 ## Timetables
@@ -32,30 +32,30 @@ programme:
   name: "Licenciatura em Engenharia Informática e de Computadores"
   acr: LEIC
 calendarTerm: 2020-2021-2
-courses:
-  - class: 
-      acr: E  # class acronym
-      - section: LEIC11Da 
-        events:
-          - category: LECTURE  # [LECTURE | PRACTICE | LAB | LECTURE-PRACTICE]
-            location:
-              - L_H2
-            beginTime: "14:00"
-            duration: "01:30"
-            weekday: MO # RFC 5545  [ SU | MO | TU | WE | TH | FR | SA ]
-          - category: LECTURE
-            beginTime: "14:00"
-            duration: "01:30"
-            weekday: WE
-          - category: LECTURE
-            beginTime: "14:00"
-            duration: "01:30"
-            weekday: TH
-        instructors:
-          - name: 'Teacher A'
-            category: PRACTICE
-          - name: 'Teacher B'
-            category: LECTURE
+classes:
+  -   acr: E
+      sections:
+        - section: LEIC11Da
+          events:
+            - category: LECTURE  # [LECTURE | PRACTICE | LAB | LECTURE-PRACTICE]
+              location:
+                - L_H2    # not mandatory
+              beginTime: "14:00"
+              duration: "01:30"
+              weekday: MO # RFC 5545  [ SU | MO | TU | WE | TH | FR | SA ]
+            - category: LECTURE
+              beginTime: "14:00"
+              duration: "01:30"
+              weekday: WE
+            - category: LECTURE
+              beginTime: "14:00"
+              duration: "01:30"
+              weekday: TH
+          instructors:
+            - name: 'Teacher A'
+              category: PRACTICE
+            - name: 'Teacher B'
+              category: LECTURE
 ```
 
 ## Exam Schedule
