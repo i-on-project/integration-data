@@ -185,83 +185,79 @@
       ]
     },
     {
-      "class": {
-        "acr": "LSD",
-        "sections": [
-          {
-            "section": "LEIC11Na",
-            "events": [
-              {
-                "category": "LECTURE",
-                "location": [
-                  "L_H1"
-                ],
-                "beginTime": "15:30",
-                "duration": "01:30",
-                "weekday": "MO"
-              },
-              {
-                "category": "LECTURE",
-                "beginTime": "14:00",
-                "duration": "01:30",
-                "weekday": "TU"
-              },
-              {
-                "category": "LECTURE",
-                "beginTime": "15:30",
-                "duration": "01:30",
-                "weekday": "TH"
-              }
-            ],
-            "instructors": [
-              {
-                "name": "Manuel José Ferreira Carneiro Mendonça",
-                "category": "PRACTICE"
-              },
-              {
-                "name": "Manuel José Ferreira Carneiro Mendonça",
-                "category": "LECTURE"
-              }
-            ]
-          }
-        ]
-      }
+      "acr": "LSD",
+      "sections": [
+        {
+          "section": "LEIC11Na",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H1"
+              ],
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Manuel José Ferreira Carneiro Mendonça",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Manuel José Ferreira Carneiro Mendonça",
+              "category": "LECTURE"
+            }
+          ]
+        }
+      ]
     },
     {
-      "class": {
-        "acr": "Pg",
-        "sections": [
-          {
-            "section": "LEIC11Na",
-            "events": [
-              {
-                "category": "LECTURE",
-                "beginTime": "15:30",
-                "duration": "01:30",
-                "weekday": "TU"
-              },
-              {
-                "category": "LECTURE",
-                "beginTime": "15:30",
-                "duration": "01:30",
-                "weekday": "WE"
-              },
-              {
-                "category": "LECTURE",
-                "beginTime": "17:00",
-                "duration": "01:30",
-                "weekday": "TH"
-              }
-            ],
-            "instructors": [
-              {
-                "name": "Pedro Alexandre Seia Cunha Ribeiro Pereira",
-                "category": "LECTURE"
-              }
-            ]
-          }
-        ]
-      }
+      "acr": "Pg",
+      "sections": [
+        {
+          "section": "LEIC11Na",
+          "events": [
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "17:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Pedro Alexandre Seia Cunha Ribeiro Pereira",
+              "category": "LECTURE"
+            }
+          ]
+        }
+      ]
     },
     {
       "acr": "ALGA",
