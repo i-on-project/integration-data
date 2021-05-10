@@ -1,9 +1,11 @@
-# Calendar
+creationDateTime: 20210421T204916Z
+retrievalDateTime: 20210421T204916Z
 school:
   name: Instituto Superior Engenharia Lisboa 
   acr: ISEL
+language: pt-PT
 terms:
-  - calendarTerm: 1920i
+  - calendarTerm: 2019-2020-1
     interruptions:
       - name: Férias Natal
         startDate: 2019-12-23
@@ -49,7 +51,7 @@ terms:
       - name: Data limite para lançamento de classificações no Portal Académico (época especial)
         startDate: 2020-03-14
         endDate: 2020-03-14
-  - calendarTerm: 1920v
+  - calendarTerm: 2019-2020-2
     interruptions:
       - name: Carnaval
         startDate: 2020-02-24

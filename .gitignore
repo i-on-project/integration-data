@@ -1,4 +1,6 @@
 *
+!*.png
+!*.json
 !.gitattributes
 !.gitignore
 !readme.md

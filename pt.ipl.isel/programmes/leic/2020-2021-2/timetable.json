@@ -1,0 +1,346 @@
+{
+  "creationDateTime": "20210421T204916Z",
+  "retrievalDateTime": "20210421T204916Z",
+  "school": {
+    "name": "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA",
+    "acr": "ISEL"
+  },
+  "programme": {
+    "name": "Licenciatura em Engenharia Informática e de Computadores",
+    "acr": "LEIC"
+  },
+  "calendarTerm": "2020-2021-2",
+  "classes": [
+    {
+      "acr": "E",
+      "sections": [
+        {
+          "section": "LEIC11Da",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H2"
+              ],
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "LECTURE"
+            }
+          ]
+        },
+        {
+          "section": "LEIC11Db",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H2"
+              ],
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "LECTURE"
+            }
+          ]
+        },
+        {
+          "section": "LEIC11Dc",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H2"
+              ],
+              "beginTime": "17:00",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "João Manuel Ferreira Martins",
+              "category": "LECTURE"
+            }
+          ]
+        },
+        {
+          "section": "LEIC11Na",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H2"
+              ],
+              "beginTime": "18:30",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "20:00",
+              "duration": "03:00",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Fernando dos Santos Azevedo",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Fernando dos Santos Azevedo",
+              "category": "LECTURE"
+            }
+          ]
+        },
+        {
+          "section": "LEIC11Nb",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H2"
+              ],
+              "beginTime": "20:00",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "20:00",
+              "duration": "03:00",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Fernando dos Santos Azevedo",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Fernando dos Santos Azevedo",
+              "category": "LECTURE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acr": "LSD",
+      "sections": [
+        {
+          "section": "LEIC11Na",
+          "events": [
+            {
+              "category": "LECTURE",
+              "location": [
+                "L_H1"
+              ],
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "14:00",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Manuel José Ferreira Carneiro Mendonça",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Manuel José Ferreira Carneiro Mendonça",
+              "category": "LECTURE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acr": "Pg",
+      "sections": [
+        {
+          "section": "LEIC11Na",
+          "events": [
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "17:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Pedro Alexandre Seia Cunha Ribeiro Pereira",
+              "category": "LECTURE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acr": "ALGA",
+      "sections": [
+        {
+          "section": "LEIC21Da",
+          "events": [
+            {
+              "category": "LECTURE",
+              "beginTime": "09:30",
+              "duration": "01:30",
+              "weekday": "MO"
+            },
+            {
+              "category": "LECTURE",
+              "beginTime": "09:30",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "LECTURE-PRACTICE",
+              "location": [
+                "G.0.08"
+              ],
+              "beginTime": "17:00",
+              "duration": "01:30",
+              "weekday": "FR"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Laura Cristina Teixeira Iglésias Charters D'Azevedo",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Laura Cristina Teixeira Iglésias Charters D'Azevedo",
+              "category": "LECTURE-PRACTICE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acr": "LIC",
+      "sections": [
+        {
+          "section": "LEIC21Da",
+          "events": [
+            {
+              "category": "PRACTICE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "TU"
+            },
+            {
+              "category": "PRACTICE",
+              "beginTime": "15:30",
+              "duration": "01:30",
+              "weekday": "WE"
+            },
+            {
+              "category": "PRACTICE",
+              "beginTime": "17:00",
+              "duration": "01:30",
+              "weekday": "TH"
+            }
+          ],
+          "instructors": [
+            {
+              "name": "Pedro Miguel Florindo Miguens Matutino",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Sérgio Alexandre Alves André",
+              "category": "PRACTICE"
+            },
+            {
+              "name": "Manuel Fernandes Carvalho",
+              "category": "PRACTICE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
