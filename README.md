@@ -11,7 +11,7 @@ This repository holds the strutured data made available by I-On Integration maki
 
 The following diagram depics the structure defined to maintain the data.
 
-![Data Structure](https://github.com/i-on-project/integration-data/blob/experimental/img/I-On_Integration-Data_Structure.png)
+![Data Structure](https://github.com/i-on-project/integration-data/blob/master/img/I-On_Integration-Data_Structure.png)
 
 The name of the folders for the schools will be based on the package naming prefix used by Java using the reversed Internet domain name for each institution qualified name.
 
