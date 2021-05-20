@@ -1,0 +1,614 @@
+---
+creationDateTime: "20210318T165843Z"
+retrievalDateTime: "20210520T220914Z"
+school:
+  name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
+  acr: "ISEL"
+programme:
+  name: "Licenciatura em Engenharia Informática, Redes e Telecomunicações"
+  acr: "LEIRT"
+calendarTerm: "2020-2021-2"
+classes:
+- acr: "SS"
+  sections:
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Vítor Manuel de Oliveira Fialho"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Vítor Manuel de Oliveira Fialho"
+      category: "LECTURE"
+- acr: "MPD"
+  sections:
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Jorge Manuel Rodrigues Martins Pião"
+      category: "LECTURE"
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Jorge Manuel Rodrigues Martins Pião"
+      category: "LECTURE"
+- acr: "PG II"
+  sections:
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Mário Henrique Carrasqueira Simões"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Mário Henrique Carrasqueira Simões"
+      category: "LECTURE"
+- acr: "AC"
+  sections:
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_H1."
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_H1."
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_H1."
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_H1."
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "PRACTICE"
+    - name: "Mário Pereira Véstias"
+      category: "LECTURE"
+- acr: "TAR"
+  sections:
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+- acr: "SRC"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+- acr: "FPR"
+  sections:
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "E.1.08"
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Carlos Alberto Barreiro Mendes"
+      category: "LECTURE"
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Carlos Alberto Barreiro Mendes"
+      category: "LECTURE"
+- acr: "CN"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Luís Manuel da Costa Assunção"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Luís Manuel da Costa Assunção"
+      category: "LECTURE"
+- acr: "EGP"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+- acr: "CTVS"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "António João Nunes Serrador"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "António João Nunes Serrador"
+      category: "LECTURE"
+- acr: "Tel II"
+  sections:
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Paulo Alexandre Carapinha Marques"
+      category: "LECTURE"
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "E.1.08"
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Paulo Alexandre Carapinha Marques"
+      category: "LECTURE"
+- acr: "SG"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+- acr: "PE"
+  sections:
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "E.1.08"
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Ana Filipa Martinó da Silva Pontes Prior"
+      category: "LECTURE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Ana Filipa Martinó da Silva Pontes Prior"
+      category: "LECTURE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - "E.1.09"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Ana Filipa Martinó da Silva Pontes Prior"
+      category: "LECTURE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Ana Filipa Martinó da Silva Pontes Prior"
+      category: "LECTURE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+    - name: "Maria Elisa Viegas Marques Pereira"
+      category: "LECTURE_PRACTICE"
+- acr: "GAP"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+- acr: "DAW"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Pedro Miguel Henriques Santos Félix"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Henriques Santos Félix"
+      category: "LECTURE"
+- acr: "SO"
+  sections:
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Nuno António Afonso Cunha de Oliveira"
+      category: "LECTURE"
+  - section: "LEIRT41D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Nuno António Afonso Cunha de Oliveira"
+      category: "LECTURE"
+- acr: "RCp"
+  sections:
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+  - section: "LEIRT21D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+- acr: "PORM"
+  sections:
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Pedro Manuel de Almeida Carvalho Vieira"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Pedro Manuel de Almeida Carvalho Vieira"
+      category: "LECTURE"
+  - section: "LEIRT61D"
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Manuel de Almeida Carvalho Vieira"
+      category: "LECTURE"
