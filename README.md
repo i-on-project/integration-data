@@ -37,7 +37,7 @@ classes:
       sections:
         - section: LEIC11Da
           events:
-            - category: LECTURE  # [LECTURE | PRACTICE | LAB | LECTURE-PRACTICE]
+            - category: LECTURE  # [LECTURE | PRACTICE | LAB | LECTURE_PRACTICE]
               location:
                 - L_H2    # not mandatory
               beginTime: "14:00"
