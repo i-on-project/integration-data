@@ -23,8 +23,8 @@ Each school will have a folder `academic_years`with the several academic years c
 The `timetable.yml` file will be formatted as follows: 
 
 ```yml
-creationDateTime: 20210421T204916Z      # Coordinated Universal Time (UTC) - ISO 8601
-retrievalDateTime: 20210421T204916Z      # Coordinated Universal Time (UTC) - ISO 8601
+creationDateTime: 2021-04-21T20:49:16Z      # Coordinated Universal Time (UTC) - ISO 8601
+retrievalDateTime: 2021-04-21T20:49:16Z      # Coordinated Universal Time (UTC) - ISO 8601
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: ISEL
@@ -63,8 +63,8 @@ classes:
 For the `exam_schedule.yaml` file will have the format:
 
 ```yml
-creationDateTime: 20210421T204916Z
-retrievalDateTime: 20210421T204916Z
+creationDateTime: 2021-04-21T20:49:16Z
+retrievalDateTime: 2021-04-21T20:49:16Z
 school:
     name: Instituto Superior Engenharia Lisboa 
     acr: ISEL
@@ -87,8 +87,8 @@ The formats of each key are similar to the ones used in `timetable.yml`, with th
 Finally `calendar.yml`:
 
 ```yml
-creationDateTime: 20210421T204916Z
-retrievalDateTime: 20210421T204916Z
+creationDateTime: 2021-04-21T20:49:16Z
+retrievalDateTime: 2021-04-21T20:49:16Z
 school:
   name: Instituto Superior Engenharia Lisboa 
   acr: ISEL
@@ -112,7 +112,7 @@ terms:
         startDate: 2020-02-26
         endDate: 2020-03-07
         duringLectures: true
-    details:
+    lectures:
       - name: Turmas 1º Semestre
         curricularTerm:
           - id: 1
