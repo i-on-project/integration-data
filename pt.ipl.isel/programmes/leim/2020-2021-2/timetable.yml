@@ -1,6 +1,6 @@
 ---
-creationDateTime: "20210228T174759Z"
-retrievalDateTime: "20210525T220017Z"
+creationDateTime: "2021-02-28T17:47:59Z"
+retrievalDateTime: "2021-06-28T23:23:34Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -13,7 +13,7 @@ classes:
   sections:
   - section: "LEIM21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_M"
       beginTime: "09:30"
@@ -39,7 +39,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_S2"
       beginTime: "09:30"
@@ -87,7 +87,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_S2"
       beginTime: "09:30"
@@ -113,7 +113,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_S3"
       beginTime: "09:30"
@@ -139,7 +139,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_M"
       beginTime: "09:30"
@@ -165,7 +165,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_S2"
       beginTime: "09:30"
@@ -276,7 +276,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM61N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -304,7 +304,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM61D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "15:30"
@@ -330,7 +330,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM61D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "17:00"
@@ -356,7 +356,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM61N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "18:30"
@@ -382,7 +382,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM61N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -535,7 +535,7 @@ classes:
   sections:
   - section: "LEIM21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -561,7 +561,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -609,7 +609,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -635,7 +635,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -661,7 +661,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -687,7 +687,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -745,7 +745,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "11:00"
@@ -790,7 +790,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.08"
       beginTime: "11:00"
@@ -805,7 +805,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "18:30"
@@ -880,7 +880,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "11:00"
@@ -925,7 +925,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.07"
       beginTime: "11:00"
@@ -970,7 +970,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.07"
       beginTime: "11:00"
@@ -1015,7 +1015,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "11:00"
@@ -1056,7 +1056,7 @@ classes:
   sections:
   - section: "LEIM21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "09:30"
@@ -1082,7 +1082,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.08"
       beginTime: "09:30"
@@ -1130,7 +1130,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "09:30"
@@ -1156,7 +1156,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.07"
       beginTime: "09:30"
@@ -1182,7 +1182,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.07"
       beginTime: "09:30"
@@ -1208,7 +1208,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "G.2.06"
       beginTime: "09:30"
@@ -1339,7 +1339,7 @@ classes:
   sections:
   - section: "LEIM21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -1365,7 +1365,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -1426,7 +1426,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1452,7 +1452,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1478,7 +1478,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1504,7 +1504,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM23Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1611,7 +1611,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM41D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "15:30"
@@ -1659,7 +1659,7 @@ classes:
       category: "LECTURE"
   - section: "LEIM42D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "14:00"
