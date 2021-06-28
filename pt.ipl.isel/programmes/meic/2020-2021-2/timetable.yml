@@ -1,6 +1,6 @@
 ---
-creationDateTime: "20210301T124951Z"
-retrievalDateTime: "20210525T220042Z"
+creationDateTime: "2021-03-01T12:49:51Z"
+retrievalDateTime: "2021-06-28T23:24:19Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -39,7 +39,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -120,7 +120,7 @@ classes:
       category: "LECTURE"
   - section: "MI2D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "15:30"
@@ -169,7 +169,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -197,7 +197,7 @@ classes:
       category: "LECTURE"
   - section: "MI2D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "15:30"
@@ -223,7 +223,7 @@ classes:
       category: "LECTURE"
   - section: "MI2D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "17:00"
@@ -249,7 +249,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "18:30"
@@ -275,7 +275,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -316,7 +316,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -357,7 +357,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -398,7 +398,7 @@ classes:
       category: "LECTURE"
   - section: "MI2D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "17:00"
@@ -487,7 +487,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -540,7 +540,7 @@ classes:
       category: "LECTURE"
   - section: "MI2N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
