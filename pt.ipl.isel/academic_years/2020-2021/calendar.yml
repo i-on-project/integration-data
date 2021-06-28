@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2020-07-06T16:00:21Z"
-retrievalDateTime: "2021-06-28T23:18:36Z"
+retrievalDateTime: "2021-06-28T23:48:55Z"
 school:
   name: "Instituto Superior de Engenharia de Lisboa"
   acr: "ISEL"
@@ -13,7 +13,7 @@ terms:
     endDate: "2021-03-09"
   evaluations: []
   details: []
-  otherEvents:
+  lectures:
   - name: "Divulgação de horários"
     startDate: "2020-09-09"
     endDate: "2020-09-09"
@@ -58,7 +58,7 @@ terms:
     endDate: "2021-09-30"
     duringLectures: false
   details: []
-  otherEvents:
+  lectures:
   - name: "Divulgação de horários"
     startDate: "2021-02-22"
     endDate: "2021-02-22"
