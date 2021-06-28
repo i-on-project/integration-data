@@ -1,6 +1,6 @@
 ---
-creationDateTime: "20210322T121158Z"
-retrievalDateTime: "20210525T220037Z"
+creationDateTime: "2021-03-22T12:11:58Z"
+retrievalDateTime: "2021-06-28T23:20:46Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -118,7 +118,7 @@ classes:
       category: "LECTURE"
   - section: "LT61N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -146,7 +146,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "E.1.33"
       beginTime: "17:00"
@@ -159,7 +159,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "E.1.32"
       beginTime: "15:30"
@@ -220,7 +220,7 @@ classes:
       category: "LECTURE"
   - section: "LT12Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "E.1.33"
       beginTime: "15:30"
@@ -233,7 +233,7 @@ classes:
       category: "LECTURE"
   - section: "LT12Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "E.1.32"
       beginTime: "14:00"
@@ -296,7 +296,7 @@ classes:
   sections:
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "08:00"
@@ -361,7 +361,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
       beginTime: "09:30"
@@ -387,7 +387,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "18:30"
@@ -439,7 +439,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.31"
       beginTime: "09:30"
@@ -478,7 +478,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.07"
       beginTime: "11:00"
@@ -493,7 +493,7 @@ classes:
   sections:
   - section: "LT31D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_H2"
       beginTime: "15:30"
@@ -532,7 +532,7 @@ classes:
       category: "LECTURE"
   - section: "LT31N"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_H2"
       beginTime: "20:00"
@@ -545,7 +545,7 @@ classes:
       category: "LECTURE"
   - section: "LT32D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_H2"
       beginTime: "14:00"
@@ -597,7 +597,7 @@ classes:
   sections:
   - section: "LT41Da"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E2"
       beginTime: "08:00"
@@ -623,7 +623,7 @@ classes:
       category: "LECTURE"
   - section: "LT41Db"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E1"
       beginTime: "09:30"
@@ -649,7 +649,7 @@ classes:
       category: "LECTURE"
   - section: "LT41Dc"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E2"
       beginTime: "11:00"
@@ -688,7 +688,7 @@ classes:
       category: "LECTURE"
   - section: "LT41N"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E2"
       beginTime: "18:30"
@@ -703,7 +703,7 @@ classes:
   sections:
   - section: "LT51D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E2"
       beginTime: "11:00"
@@ -718,7 +718,7 @@ classes:
       category: "LECTURE"
   - section: "LT51D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_4Mat"
       beginTime: "11:00"
@@ -789,7 +789,7 @@ classes:
       category: "LECTURE"
   - section: "LT51N"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_E2"
       beginTime: "20:00"
@@ -852,7 +852,7 @@ classes:
   sections:
   - section: "LT11Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "LH2-F"
       beginTime: "12:30"
@@ -867,7 +867,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "12:30"
@@ -912,7 +912,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "LH2-F"
       beginTime: "14:00"
@@ -927,7 +927,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "14:00"
@@ -985,7 +985,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "15:30"
@@ -1011,7 +1011,7 @@ classes:
       category: "LECTURE"
   - section: "LT11N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_E1"
       beginTime: "20:00"
@@ -1065,7 +1065,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT11Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "15:30"
@@ -1078,7 +1078,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT11Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
       beginTime: "14:00"
@@ -1117,7 +1117,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT11N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "18:30"
@@ -1145,7 +1145,7 @@ classes:
   sections:
   - section: "LT11Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "14:00"
@@ -1184,7 +1184,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "15:30"
@@ -1249,7 +1249,7 @@ classes:
       category: "LECTURE"
   - section: "LT11Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "17:00"
@@ -1275,7 +1275,7 @@ classes:
       category: "LECTURE"
   - section: "LT11N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "21:30"
@@ -1314,7 +1314,7 @@ classes:
       category: "LECTURE"
   - section: "LT12Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "17:00"
@@ -1412,7 +1412,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT41Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -1451,7 +1451,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT41Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -1501,7 +1501,7 @@ classes:
       category: "LECTURE"
   - section: "LT41Da"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - ""
       beginTime: "08:00"
@@ -1527,7 +1527,7 @@ classes:
       category: "LECTURE"
   - section: "LT41Db"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - ""
       beginTime: "08:00"
@@ -1581,7 +1581,7 @@ classes:
   sections:
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "09:30"
@@ -1611,7 +1611,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1626,7 +1626,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "09:30"
@@ -1656,7 +1656,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1671,7 +1671,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "09:30"
@@ -1686,7 +1686,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1731,7 +1731,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1746,7 +1746,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -1776,7 +1776,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "11:00"
@@ -1791,7 +1791,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -1808,7 +1808,7 @@ classes:
   sections:
   - section: "LT31D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "E.1.33"
       beginTime: "14:00"
@@ -1873,7 +1873,7 @@ classes:
       category: "LECTURE"
   - section: "LT31N"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "E.1.33"
       beginTime: "18:30"
@@ -1886,7 +1886,7 @@ classes:
       category: "LECTURE"
   - section: "LT32D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "E.1.32"
       beginTime: "15:30"
@@ -1973,7 +1973,7 @@ classes:
   sections:
   - section: "LT61D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "15:30"
@@ -2018,7 +2018,7 @@ classes:
       category: "LECTURE"
   - section: "LT61D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "20:00"
@@ -2059,7 +2059,7 @@ classes:
       category: "LECTURE"
   - section: "LT61N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1"
       beginTime: "20:00"
@@ -2074,7 +2074,7 @@ classes:
   sections:
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "09:30"
@@ -2113,7 +2113,7 @@ classes:
       category: "LECTURE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "11:00"
@@ -2152,7 +2152,7 @@ classes:
       category: "LECTURE"
   - section: "LT21Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "12:30"
@@ -2217,7 +2217,7 @@ classes:
       category: "LECTURE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "21:30"
@@ -2230,7 +2230,7 @@ classes:
       category: "LECTURE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "09:30"
@@ -2282,7 +2282,7 @@ classes:
       category: "LECTURE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "11:00"
@@ -2321,7 +2321,7 @@ classes:
       category: "LECTURE"
   - section: "LT22Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "12:30"
@@ -2373,7 +2373,7 @@ classes:
       category: "LECTURE"
   - section: "LT23D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "11:00"
@@ -2386,7 +2386,7 @@ classes:
       category: "LECTURE"
   - section: "LT24D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "09:30"
@@ -2427,7 +2427,7 @@ classes:
   sections:
   - section: "LT61D"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_E2"
       beginTime: "11:00"
@@ -2455,7 +2455,7 @@ classes:
   sections:
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "08:00"
@@ -2470,7 +2470,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -2500,7 +2500,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -2515,7 +2515,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "09:30"
@@ -2545,7 +2545,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Dc"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "08:00"
@@ -2560,7 +2560,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "11:00"
@@ -2590,7 +2590,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -2605,7 +2605,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "20:00"
@@ -2635,7 +2635,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "08:00"
@@ -2665,7 +2665,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -2680,7 +2680,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "09:30"
@@ -2710,7 +2710,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -2740,7 +2740,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Dc"
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "11:00"
@@ -2755,7 +2755,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Dc"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "12:30"
@@ -2798,7 +2798,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT31N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "20:00"
@@ -2905,7 +2905,7 @@ classes:
   sections:
   - section: "LT41Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "09:30"
@@ -2944,7 +2944,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT41Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
       beginTime: "12:30"
@@ -2981,7 +2981,7 @@ classes:
   sections:
   - section: "LT21Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "09:30"
@@ -3020,7 +3020,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
       beginTime: "11:00"
@@ -3059,7 +3059,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT21N"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "18:30"
@@ -3085,7 +3085,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Da"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.31"
       beginTime: "11:00"
@@ -3124,7 +3124,7 @@ classes:
       category: "LECTURE_PRACTICE"
   - section: "LT22Db"
     events:
-    - category: "LECTURE"
+    - category: "LECTURE_PRACTICE"
       location:
       - "E.1.07"
       beginTime: "09:30"
@@ -3165,7 +3165,7 @@ classes:
   sections:
   - section: "LT61D"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_Tel"
       beginTime: "09:30"
@@ -3204,7 +3204,7 @@ classes:
       category: "LECTURE"
   - section: "LT61N"
     events:
-    - category: "LECTURE"
+    - category: "LAB"
       location:
       - "L_Tel"
       beginTime: "20:00"
