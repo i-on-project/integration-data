@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-02-28T17:50:39Z"
-retrievalDateTime: "2021-07-10T00:44:24Z"
+retrievalDateTime: "2021-07-10T22:43:42Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -9,23 +9,94 @@ programme:
   acr: "MEIM"
 calendarTerm: "2020-2021-2"
 classes:
-- acr: "AAA"
-  curricularTerm: 2
+- acr: "SRC"
   sections:
+  - section: "MM2D"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "MM2D"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "MM2D"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
+  - section: "MM2D"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "PRACTICE"
+    - name: "Vitor Jesus Sousa de Almeida"
+      category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
-      weekdays: "TU"
+      weekdays: "TH"
     instructors:
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "PRACTICE"
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+      category: "PRACTICE"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+      category: "LECTURE"
+  - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -34,11 +105,12 @@ classes:
       duration: "03:00"
       weekdays: "FR"
     instructors:
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "PRACTICE"
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
@@ -47,14 +119,14 @@ classes:
       duration: "03:00"
       weekdays: "FR"
     instructors:
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "PRACTICE"
-    - name: "Gonçalo Caetano Marques"
+    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "LECTURE"
 - acr: "MDLE"
-  curricularTerm: 2
   sections:
   - section: "MM2D"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -76,6 +148,7 @@ classes:
     - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
   - section: "MM2D"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -97,6 +170,7 @@ classes:
     - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
   - section: "MM2D"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
@@ -117,117 +191,90 @@ classes:
       category: "LECTURE"
     - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
-- acr: "SRC"
-  curricularTerm: 2
+- acr: "IoT"
   sections:
-  - section: "MM2D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "PRACTICE"
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "LECTURE"
-  - section: "MM2D"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "PRACTICE"
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "LECTURE"
-  - section: "MM2D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "PRACTICE"
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "LECTURE"
-  - section: "MM2D"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "PRACTICE"
-    - name: "Vitor Jesus Sousa de Almeida"
-      category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
-      weekdays: "TH"
+      weekdays: "MO"
     instructors:
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "PRACTICE"
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "PRACTICE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "LECTURE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "LECTURE"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
   - section: "MM2N"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
-      category: "PRACTICE"
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
-      category: "LECTURE"
-  - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
-      weekdays: "FR"
+      weekdays: "WE"
     instructors:
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "PRACTICE"
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "PRACTICE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "LECTURE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "LECTURE"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
-      weekdays: "FR"
+      weekdays: "WE"
     instructors:
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "PRACTICE"
-    - name: "Luís Carlos Barruncho dos Santos Gonçalves"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "PRACTICE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "PRACTICE"
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+    - name: "Nuno Miguel Soares Datia"
+      category: "LECTURE"
+    - name: "João Carlos Ferreira de Almeida Casaleiro"
+      category: "LECTURE"
+    - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
 - acr: "PF"
-  curricularTerm: 2
   sections:
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -241,6 +288,7 @@ classes:
     - name: "Carlos Eduardo Meneses Ribeiro"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -254,6 +302,7 @@ classes:
     - name: "Carlos Eduardo Meneses Ribeiro"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
@@ -266,10 +315,98 @@ classes:
       category: "PRACTICE"
     - name: "Carlos Eduardo Meneses Ribeiro"
       category: "LECTURE"
-- acr: "AVII"
-  curricularTerm: 2
+- acr: "AAA"
   sections:
   - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "PRACTICE"
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+  - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "PRACTICE"
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+  - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "PRACTICE"
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+- acr: "VARM"
+  sections:
+  - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "LECTURE"
+  - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "LECTURE"
+  - section: "MM2N"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Torres Mendes Jorge"
+      category: "LECTURE"
+- acr: "AVII"
+  sections:
+  - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -283,6 +420,7 @@ classes:
     - name: "Arnaldo Joaquim Castro Abrantes"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -296,6 +434,7 @@ classes:
     - name: "Arnaldo Joaquim Castro Abrantes"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
@@ -309,9 +448,9 @@ classes:
     - name: "Arnaldo Joaquim Castro Abrantes"
       category: "LECTURE"
 - acr: "AMI"
-  curricularTerm: 2
   sections:
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -325,6 +464,7 @@ classes:
     - name: "Rui Manuel Feliciano de Jesus"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -338,6 +478,7 @@ classes:
     - name: "Rui Manuel Feliciano de Jesus"
       category: "LECTURE"
   - section: "MM2N"
+    curricularTerm: 2
     events:
     - category: "PRACTICE"
       location:
@@ -349,124 +490,4 @@ classes:
     - name: "Rui Manuel Feliciano de Jesus"
       category: "PRACTICE"
     - name: "Rui Manuel Feliciano de Jesus"
-      category: "LECTURE"
-- acr: "VARM"
-  curricularTerm: 2
-  sections:
-  - section: "MM2N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "LECTURE"
-  - section: "MM2N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "LECTURE"
-  - section: "MM2N"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Torres Mendes Jorge"
-      category: "LECTURE"
-- acr: "IoT"
-  curricularTerm: 2
-  sections:
-  - section: "MM2N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "PRACTICE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "LECTURE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "LECTURE"
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "LECTURE"
-  - section: "MM2N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "PRACTICE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "LECTURE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "LECTURE"
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "LECTURE"
-  - section: "MM2N"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "PRACTICE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "PRACTICE"
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-    - name: "Nuno Miguel Soares Datia"
-      category: "LECTURE"
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "LECTURE"
-    - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
