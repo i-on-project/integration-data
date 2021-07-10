@@ -84,7 +84,7 @@ The formats of each key are similar to the ones used in `timetable.yml`, with th
 
 ## Academic Calendar
 
-Finally `calendar.yml`:
+For the `calendar.yml`:
 
 ```yml
 creationDateTime: 2021-04-21T20:49:16Z
@@ -142,7 +142,42 @@ terms:
         endDate: 2020-03-14
 ```
 
-A particular note to `curricularTerm` with indicates the academic semesters afected by the specific events.
+A particular note to `curricularTerm` which indicates the academic semesters afected by the specific events.
+
+## Programme Description
+
+This format describes the programme providing the list of teachers that coordinate it, the department, number of terms, contacts, link to an external reference and its description.
+
+```yml
+id: 1
+school:
+  name: Instituto Superior Engenharia Lisboa 
+  acr: ISEL
+programme:
+  name: Licenciatura em Engenharia Informática e de Computadores
+  acronym: LEIC
+termSize: 6
+department: ADEETC
+coordination:
+  - teacher: Professor Artur Jorge Ferreira
+  - teacher: Professora Cátia Raquel Jesus Vaz
+  - teacher: Professor  Manuel de Campos Lages Garcia Simão
+  - teacher: Professor Nuno Miguel Soares Datia
+  - teacher: Professor Pedro Miguel Florindo Miguéns Matutino
+contacts: ""
+sourceLink: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
+description: O ciclo de estudos conducente ao grau de licenciado em Engenharia
+  Informática e de Computadores resulta do aprofundamento dum perfil
+  profissional reconhecido pelo mercado empregador nacional e internacional. A
+  inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta
+  experiência do corpo docente e do seu envolvimento em atividades de
+  investigação, desenvolvimento e de projeto, em colaboração com empresas e
+  outras entidades, públicas e privadas. Este ciclo de estudos reflete a
+  influência da ligação à indústria, da interação com a comunidade. Trata-se
+  duma experiência continuada de relacionamento produtivo, acompanhada pela
+  transferência de tecnologia, formação e consultadoria, em diferentes áreas de
+  especialização da engenharia informática e de computadores.
+```
 
 
 # Resources
