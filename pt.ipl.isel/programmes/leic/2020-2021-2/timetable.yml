@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-22T12:12:22Z"
-retrievalDateTime: "2021-06-28T23:48:45Z"
+retrievalDateTime: "2021-07-10T00:41:32Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -10,6 +10,7 @@ programme:
 calendarTerm: "2020-2021-2"
 classes:
 - acr: "AApl"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -78,6 +79,7 @@ classes:
     - name: "Filipa Soares de Almeida"
       category: "LECTURE"
 - acr: "PS"
+  curricularTerm: 6
   sections:
   - section: "LI61D"
     events:
@@ -113,6 +115,7 @@ classes:
     - name: "Fernando Manuel Gomes de Sousa"
       category: "LECTURE"
 - acr: "IASA"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -159,6 +162,7 @@ classes:
     - name: "Luís Filipe Graça Morgado"
       category: "LECTURE"
 - acr: "TAR"
+  curricularTerm: 6
   sections:
   - section: "LI61N"
     events:
@@ -183,6 +187,7 @@ classes:
     - name: "Pedro António Marques Ribeiro"
       category: "LECTURE"
 - acr: "E"
+  curricularTerm: 1
   sections:
   - section: "LEIC11Da"
     events:
@@ -354,6 +359,7 @@ classes:
     - name: "Fernando dos Santos Azevedo"
       category: "LECTURE"
 - acr: "LS"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -411,6 +417,7 @@ classes:
     - name: "Paulo Alexandre Leal Barros Pereira"
       category: "PRACTICE"
 - acr: "CDI"
+  curricularTerm: 1
   sections:
   - section: "LEIC11Na"
     events:
@@ -457,6 +464,7 @@ classes:
     - name: "Isabel Maria Teixeira de Matos"
       category: "LECTURE"
 - acr: "SG"
+  curricularTerm: 4
   sections:
   - section: "LI41N"
     events:
@@ -503,6 +511,7 @@ classes:
     - name: "António Victor Carreira Oliveira"
       category: "LECTURE"
 - acr: "Pg"
+  curricularTerm: 1
   sections:
   - section: "LEIC11Da"
     events:
@@ -615,6 +624,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
 - acr: "SI1"
+  curricularTerm: 3
   sections:
   - section: "LI31D"
     events:
@@ -683,6 +693,7 @@ classes:
     - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
 - acr: "ALGA"
+  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
     events:
@@ -971,6 +982,7 @@ classes:
     - name: "Sónia Raquel Ferreira Carvalho"
       category: "LECTURE_PRACTICE"
 - acr: "LSD"
+  curricularTerm: 1
   sections:
   - section: "LEIC11Da"
     events:
@@ -1220,6 +1232,7 @@ classes:
     - name: "José David Pereira Coutinho Gomes Antão"
       category: "LECTURE"
 - acr: "SO"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -1299,6 +1312,7 @@ classes:
     - name: "João Humberto Holbeche Trindade"
       category: "LECTURE"
 - acr: "CSM"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -1367,6 +1381,7 @@ classes:
     - name: "Gonçalo Caetano Marques"
       category: "LECTURE"
 - acr: "SI2"
+  curricularTerm: 5
   sections:
   - section: "LI51D"
     events:
@@ -1424,6 +1439,7 @@ classes:
     - name: "Afonso dos Santos Remédios"
       category: "LECTURE"
 - acr: "RCp"
+  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
     events:
@@ -1646,6 +1662,7 @@ classes:
     - name: "João Tordo de Almeida Viegas"
       category: "LECTURE"
 - acr: "AED"
+  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
     events:
@@ -1956,6 +1973,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
 - acr: "Com"
+  curricularTerm: 3
   sections:
   - section: "LI31D"
     events:
@@ -2024,6 +2042,7 @@ classes:
     - name: "Vítor Manuel de Oliveira Fialho"
       category: "LECTURE"
 - acr: "PSC"
+  curricularTerm: 3
   sections:
   - section: "LI31D"
     events:
@@ -2078,6 +2097,7 @@ classes:
     - name: "Ezequiel Augusto Cachão Conde"
       category: "LECTURE"
 - acr: "SE2"
+  curricularTerm: 6
   sections:
   - section: "LI61N"
     events:
@@ -2119,6 +2139,7 @@ classes:
     - name: "Pedro Miguel Fernandes Sampaio"
       category: "LECTURE"
 - acr: "AC"
+  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
     events:
@@ -2637,6 +2658,7 @@ classes:
     - name: "Tiago Miguel Braga da Silva Dias"
       category: "LECTURE"
 - acr: "LIC"
+  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
     events:
@@ -2901,6 +2923,7 @@ classes:
     - name: "Manuel Fernandes Carvalho"
       category: "PRACTICE"
 - acr: "TMD"
+  curricularTerm: 1
   sections:
   - section: "LEIC11Na"
     events:
@@ -2969,6 +2992,7 @@ classes:
     - name: "Alessia Mandini"
       category: "LECTURE"
 - acr: "CN"
+  curricularTerm: 6
   sections:
   - section: "LI61D"
     events:
@@ -3015,6 +3039,7 @@ classes:
     - name: "Luís Manuel da Costa Assunção"
       category: "LECTURE"
 - acr: "EGP"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -3149,6 +3174,7 @@ classes:
     - name: "Luís Filipe de Matos Duarte Barreiros"
       category: "LECTURE"
 - acr: "AVE"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -3217,6 +3243,7 @@ classes:
     - name: "José Luis Falcão Cascalheira"
       category: "LECTURE"
 - acr: "PC"
+  curricularTerm: 5
   sections:
   - section: "LI51N"
     events:
@@ -3241,6 +3268,7 @@ classes:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
 - acr: "PE"
+  curricularTerm: 2
   sections:
   - section: "LI21Da"
     events:
@@ -3347,6 +3375,7 @@ classes:
     - name: "Carlos José Brás Geraldes"
       category: "LECTURE_PRACTICE"
 - acr: "TJ"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -3415,6 +3444,7 @@ classes:
     - name: "Carlos Manuel Ferreira Pereira dos Santos"
       category: "LECTURE"
 - acr: "GAP"
+  curricularTerm: 4
   sections:
   - section: "LI41D"
     events:
@@ -3483,6 +3513,7 @@ classes:
     - name: "Cristina Inês Camus"
       category: "LECTURE"
 - acr: "PI"
+  curricularTerm: 5
   sections:
   - section: "LI51N"
     events:
@@ -3507,6 +3538,7 @@ classes:
     - name: "José Luis Falcão Cascalheira"
       category: "LECTURE"
 - acr: "DAW"
+  curricularTerm: 6
   sections:
   - section: "LI61D"
     events:
