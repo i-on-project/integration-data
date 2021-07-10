@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-01T12:49:51Z"
-retrievalDateTime: "2021-06-28T23:24:19Z"
+retrievalDateTime: "2021-07-10T00:44:17Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -10,6 +10,7 @@ programme:
 calendarTerm: "2020-2021-2"
 classes:
 - acr: "RCMov"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -51,6 +52,7 @@ classes:
     - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
 - acr: "AAC"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -75,6 +77,7 @@ classes:
     - name: "Mário Pereira Véstias"
       category: "LECTURE"
 - acr: "MDLE"
+  curricularTerm: 2
   sections:
   - section: "MI2D"
     events:
@@ -140,6 +143,7 @@ classes:
     - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
 - acr: "RPC"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -181,6 +185,7 @@ classes:
     - name: "Paulo Manuel Trigo Cândido da Silva"
       category: "LECTURE"
 - acr: "SRC"
+  curricularTerm: 2
   sections:
   - section: "MI2D"
     events:
@@ -287,6 +292,7 @@ classes:
     - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "LECTURE"
 - acr: "PIB"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -328,6 +334,7 @@ classes:
     - name: "Artur Jorge Ferreira"
       category: "LECTURE"
 - acr: "GSI"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -369,6 +376,7 @@ classes:
     - name: "Walter Jorge Mendes Vieira"
       category: "LECTURE"
 - acr: "SIAD"
+  curricularTerm: 2
   sections:
   - section: "MI2D"
     events:
@@ -410,6 +418,7 @@ classes:
     - name: "Ricardo Filipe da Cruz dos Santos Almeida e Silva"
       category: "LECTURE"
 - acr: "EGP"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -434,6 +443,7 @@ classes:
     - name: "Luís Filipe de Matos Duarte Barreiros"
       category: "LECTURE"
 - acr: "IoT"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
@@ -511,6 +521,7 @@ classes:
     - name: "Nuno Miguel Soares Datia"
       category: "LECTURE"
 - acr: "IESD"
+  curricularTerm: 2
   sections:
   - section: "MI2N"
     events:
