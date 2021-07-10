@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-18T16:58:43Z"
-retrievalDateTime: "2021-06-28T23:24:11Z"
+retrievalDateTime: "2021-07-10T00:43:53Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -10,6 +10,7 @@ programme:
 calendarTerm: "2020-2021-2"
 classes:
 - acr: "SS"
+  curricularTerm: 2
   sections:
   - section: "LEIRT21D"
     events:
@@ -34,6 +35,7 @@ classes:
     - name: "Vítor Manuel de Oliveira Fialho"
       category: "LECTURE"
 - acr: "MPD"
+  curricularTerm: 4
   sections:
   - section: "LEIRT41D"
     events:
@@ -58,6 +60,7 @@ classes:
     - name: "Jorge Manuel Rodrigues Martins Pião"
       category: "LECTURE"
 - acr: "PG II"
+  curricularTerm: 2
   sections:
   - section: "LEIRT21D"
     events:
@@ -82,6 +85,7 @@ classes:
     - name: "Mário Henrique Carrasqueira Simões"
       category: "LECTURE"
 - acr: "AC"
+  curricularTerm: 2
   sections:
   - section: "LEIRT21D"
     events:
@@ -198,6 +202,7 @@ classes:
     - name: "Mário Pereira Véstias"
       category: "LECTURE"
 - acr: "TAR"
+  curricularTerm: 4
   sections:
   - section: "LEIRT41D"
     events:
@@ -222,6 +227,7 @@ classes:
     - name: "Nuno Miguel Abreu Luís"
       category: "LECTURE"
 - acr: "SRC"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -276,6 +282,7 @@ classes:
     - name: "Vitor Jesus Sousa de Almeida"
       category: "LECTURE"
 - acr: "FPR"
+  curricularTerm: 4
   sections:
   - section: "LEIRT41D"
     events:
@@ -300,6 +307,7 @@ classes:
     - name: "Carlos Alberto Barreiro Mendes"
       category: "LECTURE"
 - acr: "CN"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -324,6 +332,7 @@ classes:
     - name: "Luís Manuel da Costa Assunção"
       category: "LECTURE"
 - acr: "EGP"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -348,6 +357,7 @@ classes:
     - name: "Luís Filipe de Matos Duarte Barreiros"
       category: "LECTURE"
 - acr: "CTVS"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -372,6 +382,7 @@ classes:
     - name: "António João Nunes Serrador"
       category: "LECTURE"
 - acr: "Tel II"
+  curricularTerm: 4
   sections:
   - section: "LEIRT41D"
     events:
@@ -396,6 +407,7 @@ classes:
     - name: "Paulo Alexandre Carapinha Marques"
       category: "LECTURE"
 - acr: "SG"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -420,6 +432,7 @@ classes:
     - name: "António Victor Carreira Oliveira"
       category: "LECTURE"
 - acr: "PE"
+  curricularTerm: 2
   sections:
   - section: "LEIRT21D"
     events:
@@ -482,6 +495,7 @@ classes:
     - name: "Maria Elisa Viegas Marques Pereira"
       category: "LECTURE_PRACTICE"
 - acr: "GAP"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -506,6 +520,7 @@ classes:
     - name: "Cristina Inês Camus"
       category: "LECTURE"
 - acr: "DAW"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
@@ -530,6 +545,7 @@ classes:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
 - acr: "SO"
+  curricularTerm: 4
   sections:
   - section: "LEIRT41D"
     events:
@@ -554,6 +570,7 @@ classes:
     - name: "Nuno António Afonso Cunha de Oliveira"
       category: "LECTURE"
 - acr: "RCp"
+  curricularTerm: 2
   sections:
   - section: "LEIRT21D"
     events:
@@ -578,6 +595,7 @@ classes:
     - name: "João Manuel Roquete Florêncio"
       category: "LECTURE"
 - acr: "PORM"
+  curricularTerm: 6
   sections:
   - section: "LEIRT61D"
     events:
