@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-02-28T17:47:59Z"
-retrievalDateTime: "2021-06-28T23:23:34Z"
+retrievalDateTime: "2021-07-10T00:43:44Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -10,6 +10,7 @@ programme:
 calendarTerm: "2020-2021-2"
 classes:
 - acr: "CF"
+  curricularTerm: 2
   sections:
   - section: "LEIM21Da"
     events:
@@ -190,6 +191,7 @@ classes:
     - name: "Jorge Miguel de Paiva Pinheiro Pais"
       category: "LECTURE"
 - acr: "IASA"
+  curricularTerm: 4
   sections:
   - section: "LEIM41D"
     events:
@@ -225,6 +227,7 @@ classes:
     - name: "Luís Filipe Graça Morgado"
       category: "LECTURE"
 - acr: "TAR"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -288,6 +291,7 @@ classes:
     - name: "Pedro António Marques Ribeiro"
       category: "LECTURE"
 - acr: "SRC"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -394,6 +398,7 @@ classes:
     - name: "Luís Carlos Barruncho dos Santos Gonçalves"
       category: "LECTURE"
 - acr: "PRJ"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -440,6 +445,7 @@ classes:
     - name: "Hélder Filipe de Oliveira Bastos"
       category: "LECTURE"
 - acr: "CN"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -486,6 +492,7 @@ classes:
     - name: "Luís Manuel da Costa Assunção"
       category: "LECTURE"
 - acr: "SMI"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -532,6 +539,7 @@ classes:
     - name: "Carlos Jorge de Sousa Gonçalves"
       category: "LECTURE"
 - acr: "MoP"
+  curricularTerm: 2
   sections:
   - section: "LEIM21Da"
     events:
@@ -712,6 +720,7 @@ classes:
     - name: "João Miguel Jones Ventura"
       category: "LECTURE"
 - acr: "MCG"
+  curricularTerm: 2
   sections:
   - section: "LEIM21Da"
     events:
@@ -1029,6 +1038,7 @@ classes:
     - name: "Cátia Sofia Peniche Lente Dinis Dias"
       category: "LECTURE"
 - acr: "DAM"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
@@ -1053,6 +1063,7 @@ classes:
     - name: "Ana Sofia Duarte Correia"
       category: "LECTURE"
 - acr: "RPS"
+  curricularTerm: 2
   sections:
   - section: "LEIM21Da"
     events:
@@ -1233,6 +1244,7 @@ classes:
     - name: "Célia Maria da Silva Fernandes"
       category: "LECTURE"
 - acr: "AAV"
+  curricularTerm: 4
   sections:
   - section: "LEIM41D"
     events:
@@ -1268,6 +1280,7 @@ classes:
     - name: "Hugo Tito Cordeiro"
       category: "LECTURE"
 - acr: "CSM"
+  curricularTerm: 4
   sections:
   - section: "LEIM41D"
     events:
@@ -1336,6 +1349,7 @@ classes:
     - name: "Gonçalo Caetano Marques"
       category: "LECTURE"
 - acr: "PDS"
+  curricularTerm: 2
   sections:
   - section: "LEIM21Da"
     events:
@@ -1516,6 +1530,7 @@ classes:
     - name: "André Ribeiro Lourenço"
       category: "LECTURE"
 - acr: "RCp"
+  curricularTerm: 4
   sections:
   - section: "LEIM41D"
     events:
@@ -1595,6 +1610,7 @@ classes:
     - name: "João Tordo de Almeida Viegas"
       category: "LECTURE"
 - acr: "IECD"
+  curricularTerm: 4
   sections:
   - section: "LEIM41D"
     events:
@@ -1671,6 +1687,7 @@ classes:
     - name: "Porfírio Pena Filipe"
       category: "LECTURE"
 - acr: "IAV"
+  curricularTerm: 6
   sections:
   - section: "LEIM61D"
     events:
