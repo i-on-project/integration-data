@@ -37,7 +37,7 @@
       ],
       "lectures": [
         {
-          "name": "Aulas",
+          "name": "Todas as turmas",
           "curricularTerm": [
             {
               "id": 1
@@ -87,6 +87,11 @@
           "name": "Interrupção de atividades letivas (Páscoa)",
           "startDate": "2021-03-29",
           "endDate": "2021-04-05"
+        },
+        {
+          "name": "Período de ausência de atividade letiva (férias)",
+          "startDate": "2021-08-01",
+          "endDate": "2021-08-30"
         }
       ],
       "evaluations": [
@@ -111,7 +116,7 @@
       ],
       "lectures": [
         {
-          "name": "Aulas",
+          "name": "Todas as turmas",
           "curricularTerm": [
             {
               "id": 1
@@ -146,11 +151,6 @@
           "name": "Encerramento das atividades letivas 2020/2021",
           "startDate": "2021-07-31",
           "endDate": "2021-07-31"
-        },
-        {
-          "name": "Período de ausência de atividade letiva (férias)",
-          "startDate": "2021-08-01",
-          "endDate": "2021-08-30"
         },
         {
           "name": "Data limite para lançamento de classificações no Portal Académico (frequência, exames de época normal e de época de recurso)",

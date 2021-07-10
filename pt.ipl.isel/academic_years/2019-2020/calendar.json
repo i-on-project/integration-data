@@ -105,6 +105,11 @@
           "name": "Páscoa",
           "startDate": "2020-04-06",
           "endDate": "2020-04-13"
+        },
+        {
+          "name": "Período de ausência de atividade letiva (férias)",
+          "startDate": "2020-08-01",
+          "endDate": "2020-08-30"
         }
       ],
       "evaluations": [
@@ -164,11 +169,6 @@
           "name": "Encerramento das atividades letivas 2019/2020",
           "startDate": "2020-09-19",
           "endDate": "2020-09-19"
-        },
-        {
-          "name": "Período de ausência de atividade letiva (férias)",
-          "startDate": "2020-08-01",
-          "endDate": "2020-08-30"
         },
         {
           "name": "Data limite para lançamento de classificações no Portal Académico (frequência, exames de época normal)",
