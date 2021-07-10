@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-22T12:12:22Z"
-retrievalDateTime: "2021-07-10T00:41:32Z"
+retrievalDateTime: "2021-07-10T22:46:27Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -9,187 +9,10 @@ programme:
   acr: "LEIC"
 calendarTerm: "2020-2021-2"
 classes:
-- acr: "AApl"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Filipa Soares de Almeida"
-      category: "LECTURE"
-- acr: "PS"
-  curricularTerm: 6
-  sections:
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Fernando Manuel Gomes de Sousa"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Fernando Manuel Gomes de Sousa"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Fernando Manuel Gomes de Sousa"
-      category: "LECTURE"
-- acr: "IASA"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - "L_M"
-      beginTime: "14:00"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Luís Filipe Graça Morgado"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - "L_M"
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Luís Filipe Graça Morgado"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - "L_M"
-      beginTime: "18:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Paulo Jorge Mestre Vieira"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - "L_M"
-      beginTime: "14:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Filipe Graça Morgado"
-      category: "LECTURE"
-- acr: "TAR"
-  curricularTerm: 6
-  sections:
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Pedro António Marques Ribeiro"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro António Marques Ribeiro"
-      category: "LECTURE"
 - acr: "E"
-  curricularTerm: 1
   sections:
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
@@ -203,6 +26,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -216,6 +40,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -229,6 +54,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -242,6 +68,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -255,6 +82,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
@@ -268,6 +96,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Dc"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -281,6 +110,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Dc"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -294,6 +124,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Dc"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
@@ -307,6 +138,7 @@ classes:
     - name: "João Manuel Ferreira Martins"
       category: "LECTURE"
   - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
@@ -320,6 +152,7 @@ classes:
     - name: "Fernando dos Santos Azevedo"
       category: "LECTURE"
   - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -333,6 +166,7 @@ classes:
     - name: "Fernando dos Santos Azevedo"
       category: "LECTURE"
   - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
@@ -346,6 +180,7 @@ classes:
     - name: "Fernando dos Santos Azevedo"
       category: "LECTURE"
   - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -358,162 +193,278 @@ classes:
       category: "PRACTICE"
     - name: "Fernando dos Santos Azevedo"
       category: "LECTURE"
-- acr: "LS"
-  curricularTerm: 4
+- acr: "LSD"
   sections:
-  - section: "LI41D"
+  - section: "LEIC11Da"
+    curricularTerm: 1
     events:
-    - category: "PRACTICE"
+    - category: "LECTURE"
       location:
       - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "WE"
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
     instructors:
-    - name: "Filipe Bastos de Freitas"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "PRACTICE"
-  - section: "LI41D"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "LECTURE"
+  - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "PRACTICE"
       location:
-      - ""
-      beginTime: "12:30"
+      - "L_H1"
+      beginTime: "15:30"
       duration: "01:30"
       weekdays: "MO"
     instructors:
-    - name: "Filipe Bastos de Freitas"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "PRACTICE"
-  - section: "LI41N"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Filipe Bastos de Freitas"
-      category: "PRACTICE"
-  - section: "LI42D"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Paulo Alexandre Leal Barros Pereira"
-      category: "PRACTICE"
-  - section: "LI42D"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Paulo Alexandre Leal Barros Pereira"
-      category: "PRACTICE"
-- acr: "CDI"
-  curricularTerm: 1
-  sections:
-  - section: "LEIC11Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
-    instructors:
-    - name: "Isabel Maria Teixeira de Matos"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "LECTURE"
-  - section: "LEIC11Na"
+  - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
-      beginTime: "18:30"
+      beginTime: "15:30"
       duration: "01:30"
       weekdays: "TH"
     instructors:
-    - name: "Isabel Maria Teixeira de Matos"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "LECTURE"
-  - section: "LEIC11Nb"
+  - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
     instructors:
-    - name: "Isabel Maria Teixeira de Matos"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "LECTURE"
-  - section: "LEIC11Nb"
+  - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
-      beginTime: "18:30"
+      beginTime: "15:30"
       duration: "01:30"
       weekdays: "TH"
     instructors:
-    - name: "Isabel Maria Teixeira de Matos"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "LECTURE"
-- acr: "SG"
-  curricularTerm: 4
-  sections:
-  - section: "LI41N"
+  - section: "LEIC11Db"
+    curricularTerm: 1
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
-      - ""
-      beginTime: "18:30"
+      - "L_H1"
+      beginTime: "17:00"
       duration: "01:30"
       weekdays: "MO"
     instructors:
-    - name: "António Victor Carreira Oliveira"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
       category: "LECTURE"
-  - section: "LI41N"
+  - section: "LEIC11Dc"
+    curricularTerm: 1
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "LECTURE"
+  - section: "LEIC11Dc"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "LECTURE"
+  - section: "LEIC11Dc"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "PRACTICE"
+    - name: "José Manuel Bagarrão Paraíso"
+      category: "LECTURE"
+  - section: "LEIC11Na"
+    curricularTerm: 1
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "20:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "PRACTICE"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "LECTURE"
+  - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
-      weekdays: "TH"
+      weekdays: "WE"
     instructors:
-    - name: "António Victor Carreira Oliveira"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "PRACTICE"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
       category: "LECTURE"
-  - section: "LI61N"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
-    - category: "LECTURE"
+    - category: "PRACTICE"
       location:
-      - ""
+      - "L_H1"
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
     instructors:
-    - name: "António Victor Carreira Oliveira"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "PRACTICE"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
       category: "LECTURE"
-  - section: "LI61N"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "PRACTICE"
+    - name: "Manuel José Ferreira Carneiro Mendonça"
+      category: "LECTURE"
+  - section: "LEIC12Da"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "LECTURE"
+  - section: "LEIC12Da"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
       weekdays: "TH"
     instructors:
-    - name: "António Victor Carreira Oliveira"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "LECTURE"
+  - section: "LEIC12Da"
+    curricularTerm: 1
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "LECTURE"
+  - section: "LEIC12Db"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "LECTURE"
+  - section: "LEIC12Db"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "LECTURE"
+  - section: "LEIC12Db"
+    curricularTerm: 1
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "José David Pereira Coutinho Gomes Antão"
+      category: "PRACTICE"
+    - name: "José David Pereira Coutinho Gomes Antão"
       category: "LECTURE"
 - acr: "Pg"
-  curricularTerm: 1
   sections:
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -525,6 +476,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -536,6 +488,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Da"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -547,6 +500,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -558,6 +512,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -569,6 +524,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Db"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -580,6 +536,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -591,6 +548,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -602,6 +560,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -613,6 +572,7 @@ classes:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
   - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
@@ -623,1048 +583,134 @@ classes:
     instructors:
     - name: "Pedro Alexandre Seia Cunha Ribeiro Pereira"
       category: "LECTURE"
-- acr: "SI1"
-  curricularTerm: 3
+- acr: "CDI"
   sections:
-  - section: "LI31D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-  - section: "LI31D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-  - section: "LI31D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-  - section: "LI31N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-  - section: "LI31N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-  - section: "LI31N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Matilde Pós-de-Mina Pato"
-      category: "LECTURE"
-- acr: "ALGA"
-  curricularTerm: 2
-  sections:
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.0.08"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.0.08"
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "E.1.33"
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-    - name: "Alessia Mandini"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-    - name: "Alessia Mandini"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "E.1.33"
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-    - name: "Alessia Mandini"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-    - name: "Alessia Mandini"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.0.08"
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.0.08"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE"
-    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.2.09"
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - "G.2.09"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE_PRACTICE"
-- acr: "LSD"
-  curricularTerm: 1
-  sections:
-  - section: "LEIC11Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Dc"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
-  - section: "LEIC11Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "PRACTICE"
-    - name: "José Manuel Bagarrão Paraíso"
-      category: "LECTURE"
   - section: "LEIC11Na"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "20:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "PRACTICE"
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "LECTURE"
-  - section: "LEIC11Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "PRACTICE"
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "LECTURE"
-  - section: "LEIC11Nb"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "PRACTICE"
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "LECTURE"
-  - section: "LEIC11Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "PRACTICE"
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "LECTURE"
-  - section: "LEIC12Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LEIC12Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LEIC12Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LEIC12Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LEIC12Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LEIC12Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-- acr: "SO"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Jorge Manuel Rodrigues Martins Pião"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Jorge Manuel Rodrigues Martins Pião"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Jorge Manuel Rodrigues Martins Pião"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "João Humberto Holbeche Trindade"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "João Humberto Holbeche Trindade"
-      category: "LECTURE"
-  - section: "LI42D"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "João Humberto Holbeche Trindade"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "João Humberto Holbeche Trindade"
-      category: "LECTURE"
-- acr: "CSM"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Gonçalo Caetano Marques"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Gonçalo Caetano Marques"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "André Ribeiro Lourenço"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "André Ribeiro Lourenço"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "03:00"
-      weekdays: "MO"
-    instructors:
-    - name: "Gonçalo Caetano Marques"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Gonçalo Caetano Marques"
-      category: "LECTURE"
-- acr: "SI2"
-  curricularTerm: 5
-  sections:
-  - section: "LI51D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Walter Jorge Mendes Vieira"
-      category: "LECTURE"
-  - section: "LI51D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Walter Jorge Mendes Vieira"
-      category: "LECTURE"
-  - section: "LI51D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Walter Jorge Mendes Vieira"
-      category: "LECTURE"
-  - section: "LI51N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Afonso dos Santos Remédios"
-      category: "LECTURE"
-  - section: "LI51N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Afonso dos Santos Remédios"
-      category: "LECTURE"
-- acr: "RCp"
-  curricularTerm: 2
-  sections:
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Nuno Miguel Machado Cruz"
-      category: "LECTURE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "João Manuel Roquete Florêncio"
-      category: "LECTURE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "João Manuel Roquete Florêncio"
-      category: "LECTURE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "João Manuel Roquete Florêncio"
-      category: "LECTURE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "João Manuel Roquete Florêncio"
-      category: "LECTURE"
-  - section: "LEIC24Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "08:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "João Tordo de Almeida Viegas"
-      category: "LECTURE"
-  - section: "LEIC24Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "08:00"
       duration: "03:00"
       weekdays: "SA"
     instructors:
-    - name: "João Tordo de Almeida Viegas"
+    - name: "Isabel Maria Teixeira de Matos"
       category: "LECTURE"
-  - section: "LEIC24Db"
+  - section: "LEIC11Na"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
-      beginTime: "08:00"
+      beginTime: "18:30"
       duration: "01:30"
-      weekdays: "FR"
+      weekdays: "TH"
     instructors:
-    - name: "João Tordo de Almeida Viegas"
+    - name: "Isabel Maria Teixeira de Matos"
       category: "LECTURE"
-  - section: "LEIC24Db"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
     events:
     - category: "LECTURE"
       location:
       - ""
-      beginTime: "08:00"
+      beginTime: "09:30"
       duration: "03:00"
       weekdays: "SA"
     instructors:
-    - name: "João Tordo de Almeida Viegas"
+    - name: "Isabel Maria Teixeira de Matos"
+      category: "LECTURE"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Isabel Maria Teixeira de Matos"
+      category: "LECTURE"
+- acr: "TMD"
+  sections:
+  - section: "LEIC11Na"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+  - section: "LEIC11Na"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+  - section: "LEIC11Na"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+  - section: "LEIC11Nb"
+    curricularTerm: 1
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Alessia Mandini"
       category: "LECTURE"
 - acr: "AED"
-  curricularTerm: 2
   sections:
   - section: "LEIC21Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1676,6 +722,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1687,6 +734,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1698,6 +746,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1709,6 +758,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1720,6 +770,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1731,6 +782,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC21Na"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1742,6 +794,7 @@ classes:
     - name: "Maria Paula de Brito Graça"
       category: "LECTURE"
   - section: "LEIC21Na"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1753,6 +806,7 @@ classes:
     - name: "Maria Paula de Brito Graça"
       category: "LECTURE"
   - section: "LEIC21Nb"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1764,6 +818,7 @@ classes:
     - name: "Maria Paula de Brito Graça"
       category: "LECTURE"
   - section: "LEIC21Nb"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1775,6 +830,7 @@ classes:
     - name: "Maria Paula de Brito Graça"
       category: "LECTURE"
   - section: "LEIC22Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1786,6 +842,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC22Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1797,6 +854,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC22Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1808,6 +866,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC22Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1819,6 +878,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC22Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1830,6 +890,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC22Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1841,6 +902,7 @@ classes:
     - name: "Cátia Raquel Jesus Vaz"
       category: "LECTURE"
   - section: "LEIC23Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1852,6 +914,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC23Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1863,6 +926,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC23Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1874,6 +938,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC23Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1885,6 +950,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC23Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1896,6 +962,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC23Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1907,6 +974,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1918,6 +986,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1929,6 +998,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Da"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1940,6 +1010,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1951,6 +1022,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1962,6 +1034,7 @@ classes:
     - name: "Nuno Miguel da Costa de Sousa Leite"
       category: "LECTURE"
   - section: "LEIC24Db"
+    curricularTerm: 2
     events:
     - category: "LECTURE"
       location:
@@ -1971,11 +1044,1591 @@ classes:
       weekdays: "TH"
     instructors:
     - name: "Nuno Miguel da Costa de Sousa Leite"
+      category: "LECTURE"
+- acr: "LIC"
+  sections:
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "Nuno Carlos André Sebastião"
+      category: "PRACTICE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "Nuno Carlos André Sebastião"
+      category: "PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_S1.."
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_S1.."
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_S1.."
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_S1.."
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Florindo Miguens Matutino"
+      category: "PRACTICE"
+    - name: "Sérgio Alexandre Alves André"
+      category: "PRACTICE"
+    - name: "Manuel Fernandes Carvalho"
+      category: "PRACTICE"
+- acr: "ALGA"
+  sections:
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.0.08"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.0.08"
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "E.1.33"
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+    - name: "Alessia Mandini"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+    - name: "Alessia Mandini"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "E.1.33"
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+    - name: "Alessia Mandini"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Alessia Mandini"
+      category: "LECTURE"
+    - name: "Alessia Mandini"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.0.08"
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.0.08"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE"
+    - name: "Laura Cristina Teixeira Iglésias Charters D'Azevedo"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.2.09"
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - "G.2.09"
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE"
+    - name: "Sónia Raquel Ferreira Carvalho"
+      category: "LECTURE_PRACTICE"
+- acr: "AC"
+  sections:
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "09:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Dc"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "08:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "20:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "21:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "21:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "LECTURE"
+    - name: "Jorge Manuel Valente Fonseca"
+      category: "PRACTICE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Dc"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Dd"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC22Dd"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "PRACTICE"
+    - name: "João Pedro Guerreiro da Graça Patriarca"
+      category: "LECTURE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC23Dc"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "PRACTICE"
+    - name: "Ezequiel Augusto Cachão Conde"
+      category: "LECTURE"
+  - section: "LEIC24Da"
+    curricularTerm: 2
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1."
+      beginTime: "08:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC24Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC24Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "PRACTICE"
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC24Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+  - section: "LEIC24Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Tiago Miguel Braga da Silva Dias"
+      category: "LECTURE"
+- acr: "RCp"
+  sections:
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+  - section: "LEIC21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+  - section: "LEIC21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Nuno Miguel Machado Cruz"
+      category: "LECTURE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Miguel Rego Pires"
+      category: "LECTURE"
+  - section: "LEIC21Na"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Miguel Rego Pires"
+      category: "LECTURE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Miguel Rego Pires"
+      category: "LECTURE"
+  - section: "LEIC21Nb"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Miguel Rego Pires"
+      category: "LECTURE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+  - section: "LEIC22Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+  - section: "LEIC22Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Nuno Miguel Abreu Luís"
+      category: "LECTURE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+  - section: "LEIC23Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+  - section: "LEIC23Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "João Manuel Roquete Florêncio"
+      category: "LECTURE"
+  - section: "LEIC24Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "João Tordo de Almeida Viegas"
+      category: "LECTURE"
+  - section: "LEIC24Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "João Tordo de Almeida Viegas"
+      category: "LECTURE"
+  - section: "LEIC24Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "João Tordo de Almeida Viegas"
+      category: "LECTURE"
+  - section: "LEIC24Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "08:00"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "João Tordo de Almeida Viegas"
+      category: "LECTURE"
+- acr: "PE"
+  sections:
+  - section: "LI21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21Da"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21Db"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21Dc"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE_PRACTICE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+  - section: "LI21N"
+    curricularTerm: 2
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE"
+    - name: "Carlos José Brás Geraldes"
+      category: "LECTURE_PRACTICE"
+- acr: "SI1"
+  sections:
+  - section: "LI31D"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
+      category: "LECTURE"
+  - section: "LI31D"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
+      category: "LECTURE"
+  - section: "LI31D"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
+      category: "LECTURE"
+  - section: "LI31N"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
+      category: "LECTURE"
+  - section: "LI31N"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
+      category: "LECTURE"
+  - section: "LI31N"
+    curricularTerm: 3
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Matilde Pós-de-Mina Pato"
       category: "LECTURE"
 - acr: "Com"
-  curricularTerm: 3
   sections:
   - section: "LI31D"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -1987,6 +2640,7 @@ classes:
     - name: "Artur Jorge Ferreira"
       category: "LECTURE"
   - section: "LI31D"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -1998,6 +2652,7 @@ classes:
     - name: "Artur Jorge Ferreira"
       category: "LECTURE"
   - section: "LI31D"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2009,6 +2664,7 @@ classes:
     - name: "Artur Jorge Ferreira"
       category: "LECTURE"
   - section: "LI31N"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2020,6 +2676,7 @@ classes:
     - name: "Vítor Manuel de Oliveira Fialho"
       category: "LECTURE"
   - section: "LI31N"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2031,6 +2688,7 @@ classes:
     - name: "Vítor Manuel de Oliveira Fialho"
       category: "LECTURE"
   - section: "LI31N"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2042,9 +2700,9 @@ classes:
     - name: "Vítor Manuel de Oliveira Fialho"
       category: "LECTURE"
 - acr: "PSC"
-  curricularTerm: 3
   sections:
   - section: "LI31D"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2058,6 +2716,7 @@ classes:
     - name: "Ezequiel Augusto Cachão Conde"
       category: "LECTURE"
   - section: "LI31D"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2071,6 +2730,7 @@ classes:
     - name: "Ezequiel Augusto Cachão Conde"
       category: "LECTURE"
   - section: "LI31N"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2084,6 +2744,7 @@ classes:
     - name: "Ezequiel Augusto Cachão Conde"
       category: "LECTURE"
   - section: "LI31N"
+    curricularTerm: 3
     events:
     - category: "LECTURE"
       location:
@@ -2095,1088 +2756,11 @@ classes:
     - name: "Ezequiel Augusto Cachão Conde"
       category: "LECTURE"
     - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-- acr: "SE2"
-  curricularTerm: 6
-  sections:
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-- acr: "AC"
-  curricularTerm: 2
-  sections:
-  - section: "LEIC21Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "09:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Dc"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "08:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-  - section: "LEIC21Na"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "20:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-  - section: "LEIC21Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "21:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "21:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Dc"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Dd"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC22Dd"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "PRACTICE"
-    - name: "João Pedro Guerreiro da Graça Patriarca"
-      category: "LECTURE"
-  - section: "LEIC23Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "14:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC23Dc"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "PRACTICE"
-    - name: "Ezequiel Augusto Cachão Conde"
-      category: "LECTURE"
-  - section: "LEIC24Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1."
-      beginTime: "08:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC24Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC24Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC24Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LEIC24Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-- acr: "LIC"
-  curricularTerm: 2
-  sections:
-  - section: "LEIC21Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - ""
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC21Na"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
-    instructors:
-    - name: "Nuno Carlos André Sebastião"
-      category: "PRACTICE"
-  - section: "LEIC21Nb"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
-    instructors:
-    - name: "Nuno Carlos André Sebastião"
-      category: "PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_S1.."
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Da"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_S1.."
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_S1.."
-      beginTime: "08:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_H1"
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-  - section: "LEIC22Db"
-    events:
-    - category: "PRACTICE"
-      location:
-      - "L_S1.."
-      beginTime: "11:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Florindo Miguens Matutino"
-      category: "PRACTICE"
-    - name: "Sérgio Alexandre Alves André"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-- acr: "TMD"
-  curricularTerm: 1
-  sections:
-  - section: "LEIC11Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-  - section: "LEIC11Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-  - section: "LEIC11Na"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-  - section: "LEIC11Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-  - section: "LEIC11Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "WE"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-  - section: "LEIC11Nb"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-- acr: "CN"
-  curricularTerm: 6
-  sections:
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "José Manuel de Campos Lages Garcia Simão"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "José Manuel de Campos Lages Garcia Simão"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Luís Manuel da Costa Assunção"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Manuel da Costa Assunção"
-      category: "LECTURE"
-- acr: "EGP"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI41N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "SA"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LI61N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
       category: "LECTURE"
 - acr: "AVE"
-  curricularTerm: 4
   sections:
   - section: "LI41D"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
@@ -3188,6 +2772,7 @@ classes:
     - name: "Fernando Miguel Santos Lopes de Carvalho"
       category: "LECTURE"
   - section: "LI41D"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
@@ -3199,6 +2784,7 @@ classes:
     - name: "Fernando Miguel Santos Lopes de Carvalho"
       category: "LECTURE"
   - section: "LI41N"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
@@ -3210,6 +2796,7 @@ classes:
     - name: "Fernando Miguel Santos Lopes de Carvalho"
       category: "LECTURE"
   - section: "LI41N"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
@@ -3221,6 +2808,7 @@ classes:
     - name: "Fernando Miguel Santos Lopes de Carvalho"
       category: "LECTURE"
   - section: "LI42D"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
@@ -3232,20 +2820,799 @@ classes:
     - name: "José Luis Falcão Cascalheira"
       category: "LECTURE"
   - section: "LI42D"
+    curricularTerm: 4
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "17:00"
       duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "José Luis Falcão Cascalheira"
+      category: "LECTURE"
+- acr: "GAP"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Cristina Inês Camus"
+      category: "LECTURE"
+- acr: "AApl"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Filipa Soares de Almeida"
+      category: "LECTURE"
+- acr: "TJ"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+      category: "LECTURE"
+- acr: "LS"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Filipe Bastos de Freitas"
+      category: "PRACTICE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Filipe Bastos de Freitas"
+      category: "PRACTICE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Filipe Bastos de Freitas"
+      category: "PRACTICE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Paulo Alexandre Leal Barros Pereira"
+      category: "PRACTICE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "PRACTICE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Paulo Alexandre Leal Barros Pereira"
+      category: "PRACTICE"
+- acr: "SO"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "11:00"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Jorge Manuel Rodrigues Martins Pião"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Jorge Manuel Rodrigues Martins Pião"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Jorge Manuel Rodrigues Martins Pião"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "João Humberto Holbeche Trindade"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "João Humberto Holbeche Trindade"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "João Humberto Holbeche Trindade"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "João Humberto Holbeche Trindade"
+      category: "LECTURE"
+- acr: "IASA"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_M"
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Luís Filipe Graça Morgado"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_M"
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Luís Filipe Graça Morgado"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_M"
+      beginTime: "18:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Paulo Jorge Mestre Vieira"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - "L_M"
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Filipe Graça Morgado"
+      category: "LECTURE"
+- acr: "CSM"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "André Ribeiro Lourenço"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "André Ribeiro Lourenço"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "14:00"
+      duration: "03:00"
+      weekdays: "MO"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Gonçalo Caetano Marques"
+      category: "LECTURE"
+- acr: "EGP"
+  sections:
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI41D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI42D"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "17:00"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "03:00"
+      weekdays: "TU"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "SA"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Filipe de Matos Duarte Barreiros"
+      category: "LECTURE"
+- acr: "SG"
+  sections:
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+  - section: "LI41N"
+    curricularTerm: 4
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "António Victor Carreira Oliveira"
+      category: "LECTURE"
+- acr: "SI2"
+  sections:
+  - section: "LI51D"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "Walter Jorge Mendes Vieira"
+      category: "LECTURE"
+  - section: "LI51D"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "WE"
+    instructors:
+    - name: "Walter Jorge Mendes Vieira"
+      category: "LECTURE"
+  - section: "LI51D"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "15:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Walter Jorge Mendes Vieira"
+      category: "LECTURE"
+  - section: "LI51N"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Afonso dos Santos Remédios"
+      category: "LECTURE"
+  - section: "LI51N"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Afonso dos Santos Remédios"
+      category: "LECTURE"
+- acr: "PI"
+  sections:
+  - section: "LI51N"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "José Luis Falcão Cascalheira"
+      category: "LECTURE"
+  - section: "LI51N"
+    curricularTerm: 5
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "03:00"
       weekdays: "WE"
     instructors:
     - name: "José Luis Falcão Cascalheira"
       category: "LECTURE"
 - acr: "PC"
-  curricularTerm: 5
   sections:
   - section: "LI51N"
+    curricularTerm: 5
     events:
     - category: "LECTURE"
       location:
@@ -3257,6 +3624,7 @@ classes:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
   - section: "LI51N"
+    curricularTerm: 5
     events:
     - category: "LECTURE"
       location:
@@ -3267,280 +3635,48 @@ classes:
     instructors:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
-- acr: "PE"
-  curricularTerm: 2
+- acr: "PS"
   sections:
-  - section: "LI21Da"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21Da"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21Db"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21Db"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21Dc"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "15:30"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21Dc"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - ""
-      beginTime: "17:00"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21N"
-    events:
-    - category: "LECTURE_PRACTICE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "FR"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LI21N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "20:00"
-      duration: "03:00"
-      weekdays: "TU"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-- acr: "TJ"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
+  - section: "LI61D"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "09:30"
       duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
-      category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
       weekdays: "MO"
     instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
+    - name: "Fernando Manuel Gomes de Sousa"
       category: "LECTURE"
   - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:30"
-      duration: "03:00"
-      weekdays: "WE"
-    instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
-      category: "LECTURE"
-  - section: "LI61D"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "12:30"
       duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "Carlos Manuel Ferreira Pereira dos Santos"
-      category: "LECTURE"
-- acr: "GAP"
-  curricularTerm: 4
-  sections:
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:00"
-      duration: "03:00"
       weekdays: "FR"
     instructors:
-    - name: "Cristina Inês Camus"
+    - name: "Fernando Manuel Gomes de Sousa"
       category: "LECTURE"
-  - section: "LI41D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Cristina Inês Camus"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Cristina Inês Camus"
-      category: "LECTURE"
-  - section: "LI42D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Cristina Inês Camus"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "09:00"
-      duration: "03:00"
-      weekdays: "FR"
-    instructors:
-    - name: "Cristina Inês Camus"
-      category: "LECTURE"
-  - section: "LI61D"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "12:30"
-      duration: "01:30"
-      weekdays: "TH"
-    instructors:
-    - name: "Cristina Inês Camus"
-      category: "LECTURE"
-- acr: "PI"
-  curricularTerm: 5
-  sections:
-  - section: "LI51N"
-    events:
-    - category: "LECTURE"
-      location:
-      - ""
-      beginTime: "18:30"
-      duration: "01:30"
-      weekdays: "MO"
-    instructors:
-    - name: "José Luis Falcão Cascalheira"
-      category: "LECTURE"
-  - section: "LI51N"
+  - section: "LI61N"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "03:00"
-      weekdays: "WE"
+      weekdays: "TU"
     instructors:
-    - name: "José Luis Falcão Cascalheira"
+    - name: "Fernando Manuel Gomes de Sousa"
       category: "LECTURE"
 - acr: "DAW"
-  curricularTerm: 6
   sections:
   - section: "LI61D"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
@@ -3552,6 +3688,7 @@ classes:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
   - section: "LI61D"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
@@ -3563,6 +3700,7 @@ classes:
     - name: "Pedro Miguel Henriques Santos Félix"
       category: "LECTURE"
   - section: "LI61N"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
@@ -3574,6 +3712,7 @@ classes:
     - name: "Paulo Alexandre Leal Barros Pereira"
       category: "LECTURE"
   - section: "LI61N"
+    curricularTerm: 6
     events:
     - category: "LECTURE"
       location:
@@ -3583,4 +3722,124 @@ classes:
       weekdays: "MO"
     instructors:
     - name: "Paulo Alexandre Leal Barros Pereira"
+      category: "LECTURE"
+- acr: "CN"
+  sections:
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "09:30"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "José Manuel de Campos Lages Garcia Simão"
+      category: "LECTURE"
+  - section: "LI61D"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "12:30"
+      duration: "01:30"
+      weekdays: "TU"
+    instructors:
+    - name: "José Manuel de Campos Lages Garcia Simão"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "MO"
+    instructors:
+    - name: "Luís Manuel da Costa Assunção"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "TH"
+    instructors:
+    - name: "Luís Manuel da Costa Assunção"
+      category: "LECTURE"
+- acr: "TAR"
+  sections:
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "TH"
+    instructors:
+    - name: "Pedro António Marques Ribeiro"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro António Marques Ribeiro"
+      category: "LECTURE"
+- acr: "SE2"
+  sections:
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "18:30"
+      duration: "01:30"
+      weekdays: "FR"
+    instructors:
+    - name: "Pedro Miguel Fernandes Sampaio"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Fernandes Sampaio"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "LECTURE"
+      location:
+      - ""
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Fernandes Sampaio"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Fernandes Sampaio"
+      category: "LECTURE"
+  - section: "LI61N"
+    curricularTerm: 6
+    events:
+    - category: "PRACTICE"
+      location:
+      - "L_H1"
+      beginTime: "20:00"
+      duration: "03:00"
+      weekdays: "WE"
+    instructors:
+    - name: "Pedro Miguel Fernandes Sampaio"
+      category: "PRACTICE"
+    - name: "Pedro Miguel Fernandes Sampaio"
       category: "LECTURE"
