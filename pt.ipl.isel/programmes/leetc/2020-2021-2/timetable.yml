@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-22T12:11:58Z"
-retrievalDateTime: "2021-06-28T23:20:46Z"
+retrievalDateTime: "2021-07-10T00:42:07Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -10,6 +10,7 @@ programme:
 calendarTerm: "2020-2021-2"
 classes:
 - acr: "PR"
+  curricularTerm: 4
   sections:
   - section: "LT41Da"
     events:
@@ -89,6 +90,7 @@ classes:
     - name: "João Manuel Amado Frazão"
       category: "LECTURE"
 - acr: "TAR"
+  curricularTerm: 6
   sections:
   - section: "LT61N"
     events:
@@ -130,6 +132,7 @@ classes:
     - name: "Pedro António Marques Ribeiro"
       category: "LECTURE"
 - acr: "PG I"
+  curricularTerm: 1
   sections:
   - section: "LT11Da"
     events:
@@ -258,6 +261,7 @@ classes:
     - name: "Manuel Fernandes Carvalho"
       category: "LECTURE"
 - acr: "AM1"
+  curricularTerm: 1
   sections:
   - section: "LT11N"
     events:
@@ -293,6 +297,7 @@ classes:
     - name: "Maria Teresa Morais de Paiva Martins e Silva"
       category: "LECTURE"
 - acr: "AM2"
+  curricularTerm: 2
   sections:
   - section: "LT21Da"
     events:
@@ -490,6 +495,7 @@ classes:
     - name: "António Carlos dos Santos Paixão"
       category: "LECTURE_PRACTICE"
 - acr: "E1"
+  curricularTerm: 3
   sections:
   - section: "LT31D"
     events:
@@ -570,6 +576,7 @@ classes:
     - name: "Vítor Manuel Guerra Vaz da Silva"
       category: "LECTURE"
 - acr: "PFC"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -594,6 +601,7 @@ classes:
     - name: "Carlos Eduardo Meneses Ribeiro"
       category: "LECTURE"
 - acr: "E2"
+  curricularTerm: 4
   sections:
   - section: "LT41Da"
     events:
@@ -700,6 +708,7 @@ classes:
     - name: "Luís Miguel Tavares Fernandes"
       category: "LECTURE"
 - acr: "SEAD"
+  curricularTerm: 5
   sections:
   - section: "LT51D"
     events:
@@ -801,6 +810,7 @@ classes:
     - name: "António Manuel Albuquerque Couto Pinto"
       category: "LECTURE"
 - acr: "CSE"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -825,6 +835,7 @@ classes:
     - name: "António Manuel Albuquerque Couto Pinto"
       category: "LECTURE"
 - acr: "SG"
+  curricularTerm: 6
   sections:
   - section: "LT61N"
     events:
@@ -849,6 +860,7 @@ classes:
     - name: "António Victor Carreira Oliveira"
       category: "LECTURE"
 - acr: "IC"
+  curricularTerm: 1
   sections:
   - section: "LT11Da"
     events:
@@ -1036,6 +1048,7 @@ classes:
     - name: "Dora Helena Avelar Gonçalves"
       category: "LECTURE"
 - acr: "ALGA"
+  curricularTerm: 1
   sections:
   - section: "LT11Da"
     events:
@@ -1142,6 +1155,7 @@ classes:
     - name: "Alessia Mandini"
       category: "LECTURE_PRACTICE"
 - acr: "LSD"
+  curricularTerm: 1
   sections:
   - section: "LT11Da"
     events:
@@ -1326,6 +1340,7 @@ classes:
     - name: "José David Pereira Coutinho Gomes Antão"
       category: "LECTURE"
 - acr: "EA"
+  curricularTerm: 3
   sections:
   - section: "LT31D"
     events:
@@ -1383,6 +1398,7 @@ classes:
     - name: "António Manuel Carreiras Casaca"
       category: "LECTURE"
 - acr: "SO"
+  curricularTerm: 4
   sections:
   - section: "LT41Da"
     events:
@@ -1485,6 +1501,7 @@ classes:
     - name: "Diogo Sérgio Esteves Cardoso"
       category: "LECTURE"
 - acr: "RCp"
+  curricularTerm: 4
   sections:
   - section: "LT41Da"
     events:
@@ -1578,6 +1595,7 @@ classes:
     - name: "Luís Miguel Rego Pires"
       category: "LECTURE"
 - acr: "SS"
+  curricularTerm: 2
   sections:
   - section: "LT21Da"
     events:
@@ -1805,6 +1823,7 @@ classes:
     - name: "Sérgio Jorge Pereira da Costa"
       category: "LECTURE_PRACTICE"
 - acr: "MAET"
+  curricularTerm: 3
   sections:
   - section: "LT31D"
     events:
@@ -1924,6 +1943,7 @@ classes:
     - name: "José Fernando de Jesus da Rocha"
       category: "LECTURE"
 - acr: "PG II"
+  curricularTerm: 3
   sections:
   - section: "LT31D"
     events:
@@ -1970,6 +1990,7 @@ classes:
     - name: "Luís Manuel Dias Damas"
       category: "LECTURE"
 - acr: "SE2"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -2071,6 +2092,7 @@ classes:
     - name: "Pedro Miguel Fernandes Sampaio"
       category: "LECTURE"
 - acr: "AC"
+  curricularTerm: 2
   sections:
   - section: "LT21Da"
     events:
@@ -2424,6 +2446,7 @@ classes:
     - name: "Tiago Miguel Braga da Silva Dias"
       category: "LECTURE"
 - acr: "IM"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -2452,6 +2475,7 @@ classes:
     - name: "Luís Miguel Tavares Fernandes"
       category: "LECTURE"
 - acr: "FAE"
+  curricularTerm: 2
   sections:
   - section: "LT21Da"
     events:
@@ -2769,6 +2793,7 @@ classes:
     - name: "Paula Maria Garcia Louro"
       category: "LECTURE_PRACTICE"
 - acr: "Tel I"
+  curricularTerm: 3
   sections:
   - section: "LT31N"
     events:
@@ -2810,6 +2835,7 @@ classes:
     - name: "Gonçalo Ramiro Valadão Matias"
       category: "LECTURE_PRACTICE"
 - acr: "EGP"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -2856,6 +2882,7 @@ classes:
     - name: "Luís Filipe de Matos Duarte Barreiros"
       category: "LECTURE"
 - acr: "CTVS"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -2902,6 +2929,7 @@ classes:
     - name: "António João Nunes Serrador"
       category: "LECTURE"
 - acr: "Tel II"
+  curricularTerm: 4
   sections:
   - section: "LT41Da"
     events:
@@ -2978,6 +3006,7 @@ classes:
     - name: "Joel Vera Cruz Preto Paulo"
       category: "LECTURE"
 - acr: "PE"
+  curricularTerm: 2
   sections:
   - section: "LT21Da"
     events:
@@ -3162,6 +3191,7 @@ classes:
     - name: "Tiago Miguel Dias Domingues"
       category: "LECTURE_PRACTICE"
 - acr: "PIT"
+  curricularTerm: 6
   sections:
   - section: "LT61D"
     events:
@@ -3216,6 +3246,7 @@ classes:
     - name: "Nuno António Fraga Juliano Cota"
       category: "LECTURE"
 - acr: "PG III"
+  curricularTerm: 5
   sections:
   - section: "LT51D"
     events:
