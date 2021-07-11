@@ -13,62 +13,62 @@ courses:
     programmes:
       - LEIC
   - id: 1
-		acronym:
+    acronym:
       - CD
-		name: Computação Distribuída
-		termNumber:
+    name: Computação Distribuída
+    termNumber:
       - 1
-		optional: false
+    optional: false
     termDuration: 1 # 1 .. 4
-		ects: 6
-		scientificArea: IC
+    ects: 6
+    scientificArea: IC
     programmes:
       - MEIC
   - id: 2
-		acronym:
+    acronym:
       - ES
-		name: Engenharia de Software
-		termNumber:
+    name: Engenharia de Software
+    termNumber:
       - 1
-		optional: false
+    optional: false
     termDuration: 1 # 1 .. 4
-		ects: 6
-		scientificArea: IC
+    ects: 6
+    scientificArea: IC
     programmes:
       - MEIC
   - id: 3
-		acronym: 
+    acronym: 
       - ISD
-		name: Infra-estruturas de Sistemas Distribuídos
-		termNumber: 
+    name: Infra-estruturas de Sistemas Distribuídos
+    termNumber: 
       - 2
-		optional: false
+    optional: false
     termDuration: 1 # 1 .. 4
-		ects: 6
-		scientificArea: IC
+    ects: 6
+    scientificArea: IC
     programmes:
       - MEIC
   - id: 4
-		acronym: 
+    acronym: 
      - ASI
-		name: Arquiteturas de Sistemas de Informação
-		termNumber:
+    name: Arquiteturas de Sistemas de Informação
+    termNumber:
       - 3
-		optional: false
+    optional: false
     termDuration: 2 # 1 .. 4
-		ects: 6
-		scientificArea: IC
+    ects: 6
+    scientificArea: IC
     programmes:
       - MEIC
-	- id: 5
-		acronym: 
+  - id: 5
+    acronym: 
       - DM
-	  name: Dissertação MEIC
-		termNumber:
+    name: Dissertação MEIC
+    termNumber:
       - 3
-		optional: false
+    optional: false
     termDuration: 2 # 1 .. 4
-		ects: 6
-		scientificArea: IC
+    ects: 6
+    scientificArea: IC
     programmes:
       - MEIC
