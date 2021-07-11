@@ -144,41 +144,38 @@ terms:
 
 A particular note to `curricularTerm` which indicates the academic semesters afected by the specific events.
 
-## Programme Description
-
-This format describes the programme providing the list of teachers that coordinate it, the department, number of terms, contacts, link to an external reference and its description.
+## School Programmes
+This format describes the programmes provided by an institution. States the list of teachers that coordinate it, the department, number of terms, email, uri to an external reference and its description.
 
 ```yml
-id: 1
-school:
-  name: Instituto Superior Engenharia Lisboa 
-  acr: ISEL
-programme:
-  name: Licenciatura em Engenharia Informática e de Computadores
-  acronym: LEIC
-termSize: 6
-department: ADEETC
-coordination:
-  - teacher: Professor Artur Jorge Ferreira
-  - teacher: Professora Cátia Raquel Jesus Vaz
-  - teacher: Professor  Manuel de Campos Lages Garcia Simão
-  - teacher: Professor Nuno Miguel Soares Datia
-  - teacher: Professor Pedro Miguel Florindo Miguéns Matutino
-contacts: ""
-sourceLink: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
-description: O ciclo de estudos conducente ao grau de licenciado em Engenharia
-  Informática e de Computadores resulta do aprofundamento dum perfil
-  profissional reconhecido pelo mercado empregador nacional e internacional. A
-  inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta
-  experiência do corpo docente e do seu envolvimento em atividades de
-  investigação, desenvolvimento e de projeto, em colaboração com empresas e
-  outras entidades, públicas e privadas. Este ciclo de estudos reflete a
-  influência da ligação à indústria, da interação com a comunidade. Trata-se
-  duma experiência continuada de relacionamento produtivo, acompanhada pela
-  transferência de tecnologia, formação e consultadoria, em diferentes áreas de
-  especialização da engenharia informática e de computadores.
+school: pt.ipl.pt
+programmes:
+  - acronym: MEIC
+    name: Mestrado em Engenharia Informática e de Computadores
+    termSize: 6
+    department: ADEETC
+    coordination:
+      - Nuno Miguel Soares Datia
+      - Carlos Jorge de Sousa Gonçalves
+      - José Manuel de Campos Lages Garcia Simão
+      - Nuno Miguel Machado Cruz
+      - Tiago Miguel Braga da Silva Dias
+    email: meic.coordenacao@deetc.isel.ipl.pt
+    uri: https://www.isel.pt/cursos/mestrados/engenharia-informatica-e-de-computadores
+    description: O mestrado em Engenharia Informática e de Computadores (MEIC), corresponde ao 2º ciclo no âmbito da Declaração de Bolonha. O MEIC oferece aos seus estudantes uma formação sólida com o ADN do ISEL - equilíbrio entre conceitos teóricos e a sua aplicação prática - recorrendo às mais modernas tecnologias. A organização curricular do MEIC permite ao estudante construir um percurso de formação individualizado, direcionado para quem pretende aprofundar as competências adquiridas no ciclo de estudos anterior, mas também para atualizar os conhecimentos e melhorar as competências de quem já está no mercado de trabalho.
+  - acronym: LEIC
+    termSize: 6
+    department: ADEETC
+    coordination:
+      - Artur Jorge Ferreira
+      - Cátia Raquel Jesus Vaz
+      - José Manuel de Campos Lages Garcia Simão
+      - Nuno Miguel Soares Datia
+      - Pedro Miguel Florindo Miguéns Matutino
+    email: leic.coordenacao@deetc.isel.ipl.pt
+    uri: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
+    description: O ciclo de estudos conducente ao grau de licenciado em Engenharia Informática e de Computadores resulta do aprofundamento dum perfil profissional reconhecido pelo mercado empregador nacional e internacional. A inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta experiência do corpo docente e do seu envolvimento em atividades de investigação, desenvolvimento e de projeto, em colaboração com empresas e outras entidades, públicas e privadas. Este ciclo de estudos reflete a influência da ligação à indústria, da interação com a comunidade. Trata-se duma experiência continuada de relacionamento produtivo, acompanhada pela transferência de tecnologia, formação e consultadoria, em diferentes áreas de especialização da engenharia informática e de computadores.
 ```
-
 
 # Resources
 * [List of Academic Institutions in Portugal](https://www.dges.gov.pt/guias/indest.asp)
