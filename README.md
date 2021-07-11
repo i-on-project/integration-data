@@ -17,7 +17,7 @@ The name of the folders for the schools will be based on the package naming pref
 
 Each school will have a folder `academic_years`with the several academic years containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes breaked down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
 
-The academic data is splitted in several files that separate the several entities:
+The academic data is splitted in several files that separate the multiple entities:
   - [Schools](#schools)
   - [Courses](#courses)
   - [School Programmes](#school-programmes)
