@@ -8,4 +8,5 @@
 !CODEOWNERS
 !*.yaml
 !*.yml
+!*.drawio
 !*/
