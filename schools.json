@@ -1,9 +1,8 @@
 {
   "schools": [
     {
-      "name": "Instituto Superior de Engenharia de Lisboa",
       "id": "pt.ipl.isel",
-      "countryCode": "pt",
+      "name": "Instituto Superior de Engenharia de Lisboa",
       "address": "Rua Conselheiro Emídio Navarro, 1, 1959-007 LISBOA",
       "telephone": "(+351) 218317000",
       "uri": "https://www.isel.pt",
@@ -12,10 +11,9 @@
     {
       "id": "pt.ulisboa.tecnico",
       "name": "Instituto Superior Técnico",
-      "countryCode": "pt",
       "address": "Av. Rovisco Pais, 1049-001 LISBOA",
       "telephone": "(+351) 218417769",
-      "uri": "http://www.tecnico.ulisboa.pt",
+      "uri": "https://www.tecnico.ulisboa.pt",
       "email": "academica@tecnico.ulisboa.pt"
     }
   ]
