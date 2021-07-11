@@ -17,6 +17,92 @@ The name of the folders for the schools will be based on the package naming pref
 
 Each school will have a folder `academic_years`with the several academic years containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes breaked down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
 
+The academic data is splitted in several files that separate the several entities:
+  - [Schools](#schools)
+  - [Courses](#courses)
+  - [School Programmes](#school-programmes)
+  - [Timetables](#timetables)
+  - [Exam Schedule](#exam-schedule)
+  - [Academic Calendar](#academic-calendar)
+
+## Schools
+Provides details of schools. The primary key is the `id` field which uses same naming prefix as described above for the folders.
+
+```yml
+schools:
+  - id: pt.ipl.isel
+    name: Instituto Superior de Engenharia de Lisboa  
+    address: Rua Conselheiro Emídio Navarro, 1, 1959-007 LISBOA
+    telephone: (+351) 218317000
+    uri: https://www.isel.pt
+    email: isel@isel.pt
+  - id: pt.ulisboa.tecnico
+    name: Instituto Superior Técnico
+    address: Av. Rovisco Pais, 1049-001 LISBOA
+    telephone: (+351) 218417769
+    uri: https://www.tecnico.ulisboa.pt
+    email: academica@tecnico.ulisboa.pt
+```
+
+## Courses
+Describes all the course offering for a school. The courses have an `id` which provides uniquivocal reference. The `acronym` is an array since there may be multiple acronyms associated with the course (e.g. Segurança de Informação is known as SI and SegInf).
+
+```yml
+school: pt.ipl.pt
+courses:
+  - id: 0
+    acronym: 
+      - PSC
+    name: Programação em Sistemas Computacionais
+    termNumber: 
+      - 3
+    optional: false
+    termDuration: 1 # 1 .. 4
+    ects: 6
+    scientificArea: IC
+    programmes:
+      - LEIC
+  - id: 1
+    acronym:
+      - CD
+    name: Computação Distribuída
+    termNumber:
+      - 1
+    optional: false
+    termDuration: 1 # 1 .. 4
+    ects: 6
+    scientificArea: IC
+    programmes:
+      - MEIC
+```
+
+## School Programmes
+This format describes the programmes provided by an institution. States the list of teachers that coordinate it, the department, number of terms, email, uri to an external reference and its description. The `acronym` provides the primary key.
+
+```yml
+school: pt.ipl.pt
+programmes:
+  - acronym: MEIC
+    name: Mestrado em Engenharia Informática e de Computadores
+    termSize: 6
+    department: ADEETC
+    coordination:
+      - Teacher A
+      - Teacher B
+      - Teacher C
+    email: meic.coordenacao@deetc.isel.ipl.pt
+    uri: https://www.isel.pt/cursos/mestrados/engenharia-informatica-e-de-computadores
+    description: O mestrado em Engenharia Informática e de Computadores (MEIC), corresponde ao 2º ciclo no âmbito da Declaração de Bolonha. O MEIC oferece aos seus estudantes uma formação sólida com o ADN do ISEL - equilíbrio entre conceitos teóricos e a sua aplicação prática - recorrendo às mais modernas tecnologias. A organização curricular do MEIC permite ao estudante construir um percurso de formação individualizado, direcionado para quem pretende aprofundar as competências adquiridas no ciclo de estudos anterior, mas também para atualizar os conhecimentos e melhorar as competências de quem já está no mercado de trabalho.
+  - acronym: LEIC
+    termSize: 6
+    department: ADEETC
+    coordination:
+      - Teacher B
+      - Teacher D
+    email: leic.coordenacao@deetc.isel.ipl.pt
+    uri: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
+    description: O ciclo de estudos conducente ao grau de licenciado em Engenharia Informática e de Computadores resulta do aprofundamento dum perfil profissional reconhecido pelo mercado empregador nacional e internacional. A inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta experiência do corpo docente e do seu envolvimento em atividades de investigação, desenvolvimento e de projeto, em colaboração com empresas e outras entidades, públicas e privadas. Este ciclo de estudos reflete a influência da ligação à indústria, da interação com a comunidade. Trata-se duma experiência continuada de relacionamento produtivo, acompanhada pela transferência de tecnologia, formação e consultadoria, em diferentes áreas de especialização da engenharia informática e de computadores.
+```
 
 ## Timetables
 
@@ -52,9 +138,9 @@ classes:
               duration: "01:30"
               weekday: TH
           instructors:
-            - name: 'Teacher A'
+            - name: Teacher A
               category: PRACTICE
-            - name: 'Teacher B'
+            - name: Teacher B
               category: LECTURE
 ```
 
@@ -144,38 +230,7 @@ terms:
 
 A particular note to `curricularTerm` which indicates the academic semesters afected by the specific events.
 
-## School Programmes
-This format describes the programmes provided by an institution. States the list of teachers that coordinate it, the department, number of terms, email, uri to an external reference and its description.
 
-```yml
-school: pt.ipl.pt
-programmes:
-  - acronym: MEIC
-    name: Mestrado em Engenharia Informática e de Computadores
-    termSize: 6
-    department: ADEETC
-    coordination:
-      - Nuno Miguel Soares Datia
-      - Carlos Jorge de Sousa Gonçalves
-      - José Manuel de Campos Lages Garcia Simão
-      - Nuno Miguel Machado Cruz
-      - Tiago Miguel Braga da Silva Dias
-    email: meic.coordenacao@deetc.isel.ipl.pt
-    uri: https://www.isel.pt/cursos/mestrados/engenharia-informatica-e-de-computadores
-    description: O mestrado em Engenharia Informática e de Computadores (MEIC), corresponde ao 2º ciclo no âmbito da Declaração de Bolonha. O MEIC oferece aos seus estudantes uma formação sólida com o ADN do ISEL - equilíbrio entre conceitos teóricos e a sua aplicação prática - recorrendo às mais modernas tecnologias. A organização curricular do MEIC permite ao estudante construir um percurso de formação individualizado, direcionado para quem pretende aprofundar as competências adquiridas no ciclo de estudos anterior, mas também para atualizar os conhecimentos e melhorar as competências de quem já está no mercado de trabalho.
-  - acronym: LEIC
-    termSize: 6
-    department: ADEETC
-    coordination:
-      - Artur Jorge Ferreira
-      - Cátia Raquel Jesus Vaz
-      - José Manuel de Campos Lages Garcia Simão
-      - Nuno Miguel Soares Datia
-      - Pedro Miguel Florindo Miguéns Matutino
-    email: leic.coordenacao@deetc.isel.ipl.pt
-    uri: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
-    description: O ciclo de estudos conducente ao grau de licenciado em Engenharia Informática e de Computadores resulta do aprofundamento dum perfil profissional reconhecido pelo mercado empregador nacional e internacional. A inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta experiência do corpo docente e do seu envolvimento em atividades de investigação, desenvolvimento e de projeto, em colaboração com empresas e outras entidades, públicas e privadas. Este ciclo de estudos reflete a influência da ligação à indústria, da interação com a comunidade. Trata-se duma experiência continuada de relacionamento produtivo, acompanhada pela transferência de tecnologia, formação e consultadoria, em diferentes áreas de especialização da engenharia informática e de computadores.
-```
 
 # Resources
 * [List of Academic Institutions in Portugal](https://www.dges.gov.pt/guias/indest.asp)
