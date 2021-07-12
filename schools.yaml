@@ -1,11 +1,13 @@
 schools:
   - id: pt.ipl.isel
+    countryCode: pt
     name: Instituto Superior de Engenharia de Lisboa  
     address: Rua Conselheiro Emídio Navarro, 1, 1959-007 LISBOA
     telephone: (+351) 218317000
     uri: https://www.isel.pt
     email: isel@isel.pt
   - id: pt.ulisboa.tecnico
+    countryCode: pt
     name: Instituto Superior Técnico
     address: Av. Rovisco Pais, 1049-001 LISBOA
     telephone: (+351) 218417769
