@@ -14,6 +14,7 @@ programmes:
     uri: https://www.isel.pt/cursos/mestrados/engenharia-informatica-e-de-computadores
     description: O mestrado em Engenharia Informática e de Computadores (MEIC), corresponde ao 2º ciclo no âmbito da Declaração de Bolonha. O MEIC oferece aos seus estudantes uma formação sólida com o ADN do ISEL - equilíbrio entre conceitos teóricos e a sua aplicação prática - recorrendo às mais modernas tecnologias. A organização curricular do MEIC permite ao estudante construir um percurso de formação individualizado, direcionado para quem pretende aprofundar as competências adquiridas no ciclo de estudos anterior, mas também para atualizar os conhecimentos e melhorar as competências de quem já está no mercado de trabalho.
   - acronym: LEIC
+    name: Licenciatura em Engenharia Informática e de Computadores
     termSize: 6
     department: ADEETC
     coordination:
@@ -26,6 +27,7 @@ programmes:
     uri: https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-de-computadores
     description: O ciclo de estudos conducente ao grau de licenciado em Engenharia Informática e de Computadores resulta do aprofundamento dum perfil profissional reconhecido pelo mercado empregador nacional e internacional. A inovação e o aperfeiçoamento pedagógico reconhecidos são consequência da vasta experiência do corpo docente e do seu envolvimento em atividades de investigação, desenvolvimento e de projeto, em colaboração com empresas e outras entidades, públicas e privadas. Este ciclo de estudos reflete a influência da ligação à indústria, da interação com a comunidade. Trata-se duma experiência continuada de relacionamento produtivo, acompanhada pela transferência de tecnologia, formação e consultadoria, em diferentes áreas de especialização da engenharia informática e de computadores.
   - acronym: LEIRT
+    name: Licenciatura em Engenharia Informática, Redes e Telecomunicações
     termSize: 6
     department: ADEETC
     coordination:
