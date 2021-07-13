@@ -19,6 +19,7 @@
     },
     {
       "acronym": "LEIC",
+      "name": "Licenciatura em Engenharia Informática e de Computadores",
       "termSize": 6,
       "department": "ADEETC",
       "coordination": [
@@ -34,6 +35,7 @@
     },
     {
       "acronym": "LEIRT",
+      "name": "Licenciatura em Engenharia Informática, Redes e Telecomunicações"
       "termSize": 6,
       "department": "ADEETC",
       "coordination": [
