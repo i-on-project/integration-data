@@ -1,74 +1,83 @@
 school: pt.ipl.pt
 courses:
-  - id: 0
-    acronym: 
-      - PSC
-    name: Programação em Sistemas Computacionais
-    termNumber: 
-      - 3
-    optional: false
-    termDuration: 1 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - LEIC
-  - id: 1
-    acronym:
-      - CD
-    name: Computação Distribuída
-    termNumber:
-      - 1
-    optional: false
-    termDuration: 1 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - MEIC
-  - id: 2
-    acronym:
-      - ES
-    name: Engenharia de Software
-    termNumber:
-      - 1
-    optional: false
-    termDuration: 1 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - MEIC
-  - id: 3
-    acronym: 
-      - ISD
-    name: Infra-estruturas de Sistemas Distribuídos
-    termNumber: 
-      - 2
-    optional: false
-    termDuration: 1 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - MEIC
-  - id: 4
-    acronym: 
-     - ASI
-    name: Arquiteturas de Sistemas de Informação
-    termNumber:
-      - 3
-    optional: false
-    termDuration: 2 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - MEIC
-  - id: 5
-    acronym: 
-      - DM
-    name: Dissertação MEIC
-    termNumber:
-      - 3
-    optional: false
-    termDuration: 2 # 1 .. 4
-    ects: 6
-    scientificArea: IC
-    programmes:
-      - MEIC
+    - id: 0
+      acronym:
+          - PSC
+      name: Programação em Sistemas Computacionais
+      termDuration: 1 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: LEIC
+            optional: false
+            termNumber:
+                - 3
+    - id: 1
+      acronym:
+          - SI
+          - SegInf
+      name: Segurança Informática
+      termDuration: 1 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: LEIC
+            optional: true
+            termNumber:
+                - 5
+          - acronym: LEIRT
+            optional: false
+            termNumber:
+                - 5
+          - acronym: LEIM
+            optional: true
+            termNumber:
+                - 5
+    - id: 2
+      acronym:
+          - ES
+      name: Engenharia de Software
+      termDuration: 1 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: MEIC
+            optional: false
+            termNumber:
+                - 1
+    - id: 3
+      acronym:
+          - ISD
+      name: Infra-estruturas de Sistemas Distribuídos
+      termDuration: 1 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: MEIC
+            optional: false
+            termNumber:
+                - 2
+    - id: 4
+      acronym:
+          - ASI
+      name: Arquiteturas de Sistemas de Informação
+      termDuration: 2 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: MEIC
+            optional: false
+            termNumber:
+                - 3
+    - id: 5
+      acronym:
+          - DM
+      name: Dissertação MEIC
+      termDuration: 2 # 1 .. 4
+      credits: 6
+      scientificArea: IC
+      programmes:
+          - acronym: MEIC
+            optional: false
+            termNumber:
+                - 3

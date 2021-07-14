@@ -1,0 +1,105 @@
+{
+    "school": "pt.ipl.pt",
+    "courses": [
+        {
+            "id": 0,
+            "acronym": ["PSC"],
+            "name": "Programação em Sistemas Computacionais",
+            "termDuration": 1,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "LEIC",
+                    "termNumber": [3],
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "acronym": ["SI", "SegInf"],
+            "name": "Segurança Informática",
+            "termDuration": 1,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "LEIC",
+                    "termNumber": [5],
+                    "optional": true
+                },
+                {
+                    "acronym": "LEIRT",
+                    "termNumber": [5],
+                    "optional": "false"
+                },
+                {
+                    "acronym": "LEIM",
+                    "termNumber": [5],
+                    "optional": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "acronym": ["ES"],
+            "name": "Engenharia de Software",
+            "termDuration": 1,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "MEIC",
+                    "termNumber": [1],
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "acronym": ["ISD"],
+            "name": "Infra-estruturas de Sistemas Distribuídos",
+            "termDuration": 1,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "MEIC",
+                    "termNumber": [2],
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "acronym": ["ASI"],
+            "name": "Arquiteturas de Sistemas de Informação",
+            "termDuration": 2,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "MEIC",
+                    "termNumber": [3],
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "acronym": ["DM"],
+            "name": "Dissertação MEIC",
+            "termDuration": 2,
+            "credits": 6,
+            "scientificArea": "IC",
+            "programmes": [
+                {
+                    "acronym": "MEIC",
+                    "termNumber": [3],
+                    "optional": false
+                }
+            ]
+        }
+    ]
+}
