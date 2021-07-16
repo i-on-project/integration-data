@@ -1,6 +1,6 @@
 ---
 creationDateTime: "2021-03-22T12:11:58Z"
-retrievalDateTime: "2021-07-10T22:45:00Z"
+retrievalDateTime: "2021-07-16T22:30:00Z"
 school:
   name: "INSTITUTO SUPERIOR DE ENGENHARIA DE LISBOA"
   acr: "ISEL"
@@ -20,48 +20,18 @@ classes:
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -84,48 +54,18 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -148,28 +88,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Dc"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Vítor Manuel da Silva Costa"
-      category: "PRACTICE"
-    - name: "Vítor Manuel da Silva Costa"
-      category: "LECTURE"
-  - section: "LT11Dc"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -190,14 +114,6 @@ classes:
       beginTime: "20:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "PRACTICE"
-    - name: "Dora Helena Avelar Gonçalves"
-      category: "LECTURE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -220,28 +136,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -262,28 +162,12 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -304,28 +188,12 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Dc"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT11Dc"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1"
@@ -346,14 +214,6 @@ classes:
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "PRACTICE"
-    - name: "Manuel José Ferreira Carneiro Mendonça"
-      category: "LECTURE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1"
@@ -374,28 +234,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT12Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "PRACTICE"
-    - name: "José David Pereira Coutinho Gomes Antão"
-      category: "LECTURE"
-  - section: "LT12Da"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1"
@@ -418,28 +262,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Carlos Miguel Ferreira Melro Leandro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Carlos Miguel Ferreira Melro Leandro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
@@ -460,28 +288,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Carlos Miguel Ferreira Melro Leandro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Sónia Raquel Ferreira Carvalho"
-      category: "LECTURE"
-    - name: "Carlos Miguel Ferreira Melro Leandro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -502,14 +314,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Alessia Mandini"
-      category: "LECTURE"
-    - name: "Alessia Mandini"
-      category: "LECTURE_PRACTICE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -532,14 +336,6 @@ classes:
       beginTime: "15:30"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "LECTURE"
-  - section: "LT11Da"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "E.1.33"
@@ -560,14 +356,6 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "LECTURE"
-  - section: "LT11Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -588,12 +376,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Mário Justiniano Morais Pinheiro"
-      category: "LECTURE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -612,14 +394,6 @@ classes:
       beginTime: "15:30"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "LECTURE"
-  - section: "LT12Da"
-    curricularTerm: 1
-    events:
     - category: "PRACTICE"
       location:
       - "E.1.33"
@@ -640,14 +414,6 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Manuel Fernandes Carvalho"
-      category: "PRACTICE"
-    - name: "Manuel Fernandes Carvalho"
-      category: "LECTURE"
-  - section: "LT12Db"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -670,24 +436,12 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "SA"
-    instructors:
-    - name: "Maria Teresa Morais de Paiva Martins e Silva"
-      category: "LECTURE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Maria Teresa Morais de Paiva Martins e Silva"
-      category: "LECTURE"
-  - section: "LT11N"
-    curricularTerm: 1
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -708,28 +462,12 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -750,28 +488,12 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
@@ -792,28 +514,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.33"
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -834,28 +540,12 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "Anatolie Sochirca"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.31"
@@ -876,28 +566,12 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE"
-    - name: "António Carlos dos Santos Paixão"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.07"
@@ -920,32 +594,12 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -968,32 +622,12 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1016,32 +650,12 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Dc"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Dc"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1064,32 +678,12 @@ classes:
       beginTime: "20:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "20:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "PRACTICE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE"
-    - name: "António Filipe Ruas da Trindade Maçarico"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1112,32 +706,12 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -1160,32 +734,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -1208,32 +762,12 @@ classes:
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Dc"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H2"
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Paula Maria Garcia Louro"
-      category: "PRACTICE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE"
-    - name: "Paula Maria Garcia Louro"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Dc"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -1258,28 +792,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1300,28 +818,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1342,14 +844,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE"
-    - name: "Carlos José Brás Geraldes"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1370,28 +864,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Tiago Miguel Dias Domingues"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Tiago Miguel Dias Domingues"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1412,28 +890,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Tiago Miguel Dias Domingues"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Iola Maria Silvério Pinto"
-      category: "LECTURE"
-    - name: "Tiago Miguel Dias Domingues"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1456,28 +918,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1498,28 +944,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1540,28 +970,12 @@ classes:
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Dc"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT21Dc"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1582,28 +996,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "21:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "PRACTICE"
-    - name: "Jorge Manuel Valente Fonseca"
-      category: "LECTURE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1."
@@ -1624,28 +1022,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1666,28 +1048,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1708,28 +1074,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Dc"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1."
       beginTime: "12:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "PRACTICE"
-    - name: "Mário Henrique Carrasqueira Simões"
-      category: "LECTURE"
-  - section: "LT22Dc"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1750,28 +1100,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LT23D"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LT23D"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1."
@@ -1792,28 +1126,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LT24D"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "PRACTICE"
-    - name: "Tiago Miguel Braga da Silva Dias"
-      category: "LECTURE"
-  - section: "LT24D"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1836,32 +1154,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Helena Maria de Sousa Ramos"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Helena Maria de Sousa Ramos"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Da"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - ""
@@ -1884,32 +1182,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21Db"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - ""
@@ -1932,32 +1210,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "SA"
-    instructors:
-    - name: "Helena Maria de Sousa Ramos"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "SA"
-    instructors:
-    - name: "Helena Maria de Sousa Ramos"
-      category: "PRACTICE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE"
-    - name: "Helena Maria de Sousa Ramos"
-      category: "LECTURE_PRACTICE"
-  - section: "LT21N"
-    curricularTerm: 2
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -1980,32 +1238,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "PRACTICE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "PRACTICE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Da"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - ""
@@ -2028,32 +1266,12 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "José Valério do Nascimento Palmeira"
-      category: "PRACTICE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José Valério do Nascimento Palmeira"
-      category: "PRACTICE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE"
-    - name: "Sérgio Jorge Pereira da Costa"
-      category: "LECTURE_PRACTICE"
-  - section: "LT22Db"
-    curricularTerm: 2
-    events:
     - category: "PRACTICE"
       location:
       - ""
@@ -2078,12 +1296,6 @@ classes:
       beginTime: "14:00"
       duration: "03:00"
       weekdays: "MO"
-    instructors:
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2102,12 +1314,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "SA"
-    instructors:
-    - name: "Luís Manuel Dias Damas"
-      category: "LECTURE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2128,28 +1334,12 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2170,28 +1360,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LAB"
       location:
       - "E.1.33"
@@ -2212,28 +1386,12 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT32D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LAB"
-    - name: "José Fernando de Jesus da Rocha"
-      category: "LECTURE"
-  - section: "LT32D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2256,24 +1414,12 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "João Manuel Amado Frazão"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "João Manuel Amado Frazão"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2292,12 +1438,6 @@ classes:
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "MO"
-    instructors:
-    - name: "António Manuel Carreiras Casaca"
-      category: "LECTURE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2318,14 +1458,6 @@ classes:
       beginTime: "15:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Vítor Manuel Guerra Vaz da Silva"
-      category: "LAB"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-  - section: "LT31D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2346,14 +1478,6 @@ classes:
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Vítor Manuel Guerra Vaz da Silva"
-      category: "LAB"
-    - name: "Maria Manuela Almeida Carvalho Vieira"
-      category: "LECTURE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LAB"
       location:
       - "L_H2"
@@ -2374,14 +1498,6 @@ classes:
       beginTime: "14:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Vítor Manuel Guerra Vaz da Silva"
-      category: "LAB"
-    - name: "Vítor Manuel Guerra Vaz da Silva"
-      category: "LECTURE"
-  - section: "LT32D"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2404,28 +1520,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Gonçalo Ramiro Valadão Matias"
-      category: "LECTURE"
-    - name: "Gonçalo Ramiro Valadão Matias"
-      category: "LECTURE_PRACTICE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Gonçalo Ramiro Valadão Matias"
-      category: "LECTURE"
-    - name: "Gonçalo Ramiro Valadão Matias"
-      category: "LECTURE_PRACTICE"
-  - section: "LT31N"
-    curricularTerm: 3
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -2448,12 +1548,6 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "MO"
-    instructors:
-    - name: "Pedro Renato Tavares de Pinho"
-      category: "LECTURE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2472,12 +1566,6 @@ classes:
       beginTime: "14:00"
       duration: "03:00"
       weekdays: "MO"
-    instructors:
-    - name: "Manfred Niehus"
-      category: "LECTURE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2496,24 +1584,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "João Manuel Amado Frazão"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "João Manuel Amado Frazão"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2534,14 +1610,6 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LAB"
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LAB"
       location:
       - ""
@@ -2562,14 +1630,6 @@ classes:
       beginTime: "08:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LAB"
-    - name: "Nuno Miguel Abreu Luís"
-      category: "LECTURE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LAB"
       location:
       - ""
@@ -2590,28 +1650,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-    - name: "Luís Miguel Rego Pires"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2634,14 +1678,6 @@ classes:
       beginTime: "08:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Fernando dos Santos Azevedo"
-      category: "LAB"
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "LECTURE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2662,14 +1698,6 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Fernando dos Santos Azevedo"
-      category: "LAB"
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "LECTURE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2690,14 +1718,6 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Fernando dos Santos Azevedo"
-      category: "LAB"
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "LECTURE"
-  - section: "LT41Dc"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2718,14 +1738,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "SA"
-    instructors:
-    - name: "Fernando dos Santos Azevedo"
-      category: "LAB"
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LAB"
       location:
       - "L_E2"
@@ -2748,14 +1760,6 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Joel Vera Cruz Preto Paulo"
-      category: "LECTURE"
-    - name: "Joel Vera Cruz Preto Paulo"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2776,14 +1780,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "Joel Vera Cruz Preto Paulo"
-      category: "LECTURE"
-    - name: "Joel Vera Cruz Preto Paulo"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - "E.1.32"
@@ -2804,12 +1800,6 @@ classes:
       beginTime: "20:00"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "Joel Vera Cruz Preto Paulo"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2830,28 +1820,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE"
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE"
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Da"
-    curricularTerm: 4
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -2872,28 +1846,12 @@ classes:
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE"
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "11:00"
       duration: "01:30"
       weekdays: "TU"
-    instructors:
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE"
-    - name: "Nuno António Afonso Cunha de Oliveira"
-      category: "LECTURE_PRACTICE"
-  - section: "LT41Db"
-    curricularTerm: 4
-    events:
     - category: "LECTURE_PRACTICE"
       location:
       - ""
@@ -2914,12 +1872,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Diogo Sérgio Esteves Cardoso"
-      category: "LECTURE"
-  - section: "LT41N"
-    curricularTerm: 4
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -2940,48 +1892,18 @@ classes:
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LAB"
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LAB"
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT51D"
-    curricularTerm: 5
-    events:
     - category: "LAB"
       location:
       - "L_4Mat"
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LAB"
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LAB"
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT51D"
-    curricularTerm: 5
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LAB"
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LAB"
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT51D"
-    curricularTerm: 5
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3004,28 +1926,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LAB"
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT51N"
-    curricularTerm: 5
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Miguel Pinto Campilho Gomes"
-      category: "LAB"
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT51N"
-    curricularTerm: 5
-    events:
     - category: "LAB"
       location:
       - "L_E2"
@@ -3048,14 +1954,6 @@ classes:
       beginTime: "15:30"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Maria Manuela da Silva Veiga Torres de Sousa"
-      category: "LECTURE"
-    - name: "Maria Manuela da Silva Veiga Torres de Sousa"
-      category: "LECTURE"
-  - section: "LT51D"
-    curricularTerm: 5
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3076,14 +1974,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Maria Manuela da Silva Veiga Torres de Sousa"
-      category: "LECTURE"
-    - name: "Maria Manuela da Silva Veiga Torres de Sousa"
-      category: "LECTURE"
-  - section: "LT51N"
-    curricularTerm: 5
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3106,12 +1996,6 @@ classes:
       beginTime: "09:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António João Nunes Serrador"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3130,12 +2014,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "WE"
-    instructors:
-    - name: "António João Nunes Serrador"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3156,12 +2034,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "António Manuel Albuquerque Couto Pinto"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3182,14 +2054,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "João Carlos Ferreira de Almeida Casaleiro"
-      category: "LAB"
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3210,14 +2074,6 @@ classes:
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Carlos Alberto Barreiro Mendes"
-      category: "LAB"
-    - name: "Nuno António Fraga Juliano Cota"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LAB"
       location:
       - "L_Tel"
@@ -3240,14 +2096,6 @@ classes:
       beginTime: "11:00"
       duration: "03:00"
       weekdays: "MO"
-    instructors:
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "PRACTICE"
-    - name: "Luís Miguel Tavares Fernandes"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3270,12 +2118,6 @@ classes:
       beginTime: "15:30"
       duration: "03:00"
       weekdays: "TU"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3294,12 +2136,6 @@ classes:
       beginTime: "09:30"
       duration: "03:00"
       weekdays: "SA"
-    instructors:
-    - name: "Luís Filipe de Matos Duarte Barreiros"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3320,48 +2156,18 @@ classes:
       beginTime: "15:30"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT61D"
-    curricularTerm: 6
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1"
@@ -3384,28 +2190,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "FR"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "WE"
-    instructors:
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "PRACTICE"
-    - name: "Pedro Miguel Fernandes Sampaio"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "PRACTICE"
       location:
       - "L_H1"
@@ -3454,12 +2244,6 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "MO"
-    instructors:
-    - name: "António Victor Carreira Oliveira"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
@@ -3480,28 +2264,12 @@ classes:
       beginTime: "18:30"
       duration: "01:30"
       weekdays: "TH"
-    instructors:
-    - name: "Pedro António Marques Ribeiro"
-      category: "PRACTICE"
-    - name: "Pedro António Marques Ribeiro"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "LECTURE"
       location:
       - ""
       beginTime: "20:00"
       duration: "03:00"
       weekdays: "FR"
-    instructors:
-    - name: "Pedro António Marques Ribeiro"
-      category: "PRACTICE"
-    - name: "Pedro António Marques Ribeiro"
-      category: "LECTURE"
-  - section: "LT61N"
-    curricularTerm: 6
-    events:
     - category: "PRACTICE"
       location:
       - ""
