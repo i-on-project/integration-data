@@ -6,7 +6,7 @@ courses:
     name: Programação em Sistemas Computacionais
     termDuration: 1 # 1 .. 4
     credits: 6
-    scientificArea: ICs
+    scientificArea: IC
     programmes:
       - acronym: LEIC
         optional: false
@@ -35,7 +35,7 @@ courses:
           - 5
   - id: 2
     acronym:
-        - ES
+      - ES
     name: Engenharia de Software
     termDuration: 1 # 1 .. 4
     credits: 6
