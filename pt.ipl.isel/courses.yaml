@@ -1,74 +1,83 @@
 school: pt.ipl.pt
 courses:
   - id: 0
-    acronym: 
-      - PSC
+    acronym:
+        - PSC
     name: Programação em Sistemas Computacionais
-    termNumber: 
-      - 3
-    optional: false
     termDuration: 1 # 1 .. 4
-    ects: 6
-    scientificArea: IC
+    credits: 6
+    scientificArea: ICs
     programmes:
-      - LEIC
+        - acronym: LEIC
+          optional: false
+          termNumber:
+              - 3
   - id: 1
     acronym:
-      - CD
-    name: Computação Distribuída
-    termNumber:
-      - 1
-    optional: false
+        - SI
+        - SegInf
+    name: Segurança Informática
     termDuration: 1 # 1 .. 4
-    ects: 6
+    credits: 6
     scientificArea: IC
     programmes:
-      - MEIC
+        - acronym: LEIC
+          optional: true
+          termNumber:
+              - 5
+        - acronym: LEIRT
+          optional: false
+          termNumber:
+              - 5
+        - acronym: LEIM
+          optional: true
+          termNumber:
+              - 5
   - id: 2
     acronym:
-      - ES
+        - ES
     name: Engenharia de Software
-    termNumber:
-      - 1
-    optional: false
     termDuration: 1 # 1 .. 4
-    ects: 6
+    credits: 6
     scientificArea: IC
     programmes:
-      - MEIC
+        - acronym: MEIC
+          optional: false
+          termNumber:
+              - 1
   - id: 3
-    acronym: 
-      - ISD
+    acronym:
+        - ISD
     name: Infra-estruturas de Sistemas Distribuídos
-    termNumber: 
-      - 2
-    optional: false
     termDuration: 1 # 1 .. 4
-    ects: 6
+    credits: 6
     scientificArea: IC
     programmes:
-      - MEIC
+        - acronym: MEIC
+          optional: false
+          termNumber:
+              - 2
   - id: 4
-    acronym: 
-     - ASI
+    acronym:
+        - ASI
     name: Arquiteturas de Sistemas de Informação
-    termNumber:
-      - 3
-    optional: false
     termDuration: 2 # 1 .. 4
-    ects: 6
+    credits: 6
     scientificArea: IC
     programmes:
-      - MEIC
+        - acronym: MEIC
+          optional: false
+          termNumber:
+              - 3
   - id: 5
-    acronym: 
-      - DM
+    acronym:
+        - DM
     name: Dissertação MEIC
-    termNumber:
-      - 3
-    optional: false
     termDuration: 2 # 1 .. 4
-    ects: 6
+    credits: 6
     scientificArea: IC
     programmes:
-      - MEIC
+        - acronym: MEIC
+          optional: false
+          termNumber:
+              - 3
