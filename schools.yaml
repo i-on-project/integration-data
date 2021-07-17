@@ -1,5 +1,6 @@
 schools:
   - id: pt.ipl.isel
+    timezone: Europe/Lisbon
     countryCode: pt
     name: Instituto Superior de Engenharia de Lisboa  
     address: Rua Conselheiro Emídio Navarro, 1, 1959-007 LISBOA
@@ -7,6 +8,7 @@ schools:
     uri: https://www.isel.pt
     email: isel@isel.pt
   - id: pt.ulisboa.tecnico
+    timezone: Europe/Lisbon
     countryCode: pt
     name: Instituto Superior Técnico
     address: Av. Rovisco Pais, 1049-001 LISBOA

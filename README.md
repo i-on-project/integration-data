@@ -26,11 +26,12 @@ The academic data is splitted in several files that separate the multiple entiti
   - [Academic Calendar](#academic-calendar)
 
 ## Schools
-Provides details of schools. The primary key is the `id` field which uses same naming prefix as described above for the folders.
+Provides details of schools. The primary key is the `id` field which uses same naming prefix as described above for the folders. The timezone refers to the institution time zone and is based in the [IANA time zone database](https://data.iana.org/time-zones/theory.html).
 
 ```yml
 schools:
   - id: pt.ipl.isel
+    timezone: Europe/Lisbon
     countryCode: pt
     name: Instituto Superior de Engenharia de Lisboa  
     address: Rua Conselheiro Emídio Navarro, 1, 1959-007 LISBOA
@@ -38,6 +39,7 @@ schools:
     uri: https://www.isel.pt
     email: isel@isel.pt
   - id: pt.ulisboa.tecnico
+    timezone: Europe/Lisbon
     countryCode: pt
     name: Instituto Superior Técnico
     address: Av. Rovisco Pais, 1049-001 LISBOA
@@ -162,13 +164,13 @@ programme:
 calendarTerm: 2019-2020-2
 exams:
     - name: AED
-      startDate: 2020-07-09T14:00:00.000
-      endDate: 2020-07-09T17:00:00.000
+      startDate: 2020-07-09T14:00:00Z
+      endDate: 2020-07-09T17:00:00Z
       category: TEST #TEST | EXAM_NORMAL | EXAM_ALTERN | EXAM_SPECIAL
       location: 
 ```
 
-The formats of each key are similar to the ones used in `timetable.yml`, with the exception of `category`. This key will classify the evaluations with **one** the following values `[ TEST | EXAM_NORMAL | EXAM_ALTERN | EXAM_SPECIAL ]`.
+The formats of each key are similar to the ones used in `timetable.yml`, with the exception of `category`. This key will classify the evaluations with **one** the following values `[ TEST | EXAM_NORMAL | EXAM_ALTERN | EXAM_SPECIAL ]`. Note that `startDate` and `endDate` are in UTC, so if conversion is required it's necessary to get the institution's timezone from the [Schools](#schools) file.
 
 ## Academic Calendar
 
