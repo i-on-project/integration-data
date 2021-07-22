@@ -1,8 +1,8 @@
-school: pt.ipl.pt
+school: pt.ipl.isel
 programmes:
   - acronym: MEIC
     name: Mestrado em Engenharia Informática e de Computadores
-    termSize: 6
+    termSize: 4
     department: ADEETC
     coordination:
       - Nuno Miguel Soares Datia
