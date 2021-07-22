@@ -9,15 +9,15 @@ This repository holds the strutured data made available by I-On Integration maki
 
 # Data Structure
 
-The following diagram depics the structure defined to maintain the data.
+The following diagram depicts the structure defined to maintain the data.
 
 ![Data Structure](https://github.com/i-on-project/integration-data/blob/master/img/I-On_Integration-Data_Structure.png)
 
 The name of the folders for the schools will be based on the package naming prefix used by Java using the reversed Internet domain name for each institution qualified name.
 
-Each school will have a folder `academic_years`with the several academic years containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes breaked down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
+Each school will have a folder `academic_years`with the several academic years containing that year's academic calendar in the format `YYYY-YYYY`. The institution will also have a folder named `programmes` containing the several programmes broken down by calendar term (semester) in the format `YYYY-YYYY-[1|2]` where the last digit refers either to the first (`1`) or the second semester (`2`).
 
-The academic data is splitted in several files that separate the multiple entities:
+The academic data is split in several files that separate the multiple entities:
   - [Schools](#schools)
   - [Courses](#courses)
   - [School Programmes](#school-programmes)
@@ -52,7 +52,7 @@ schools:
 Describes all the course offering for a school. The courses have an `id` which provides uniquivocal reference. The `acronym` is an array since there may be multiple acronyms associated with the course (e.g. Segurança de Informação is known as SI and SegInf).
 
 ```yml
-school: pt.ipl.pt
+school: pt.ipl.isel
 courses:
   - id: 0
     acronym: 
@@ -84,11 +84,11 @@ courses:
 This format describes the programmes provided by an institution. States the list of teachers that coordinate it, the department, number of terms, email, uri to an external reference and its description. The `acronym` provides the primary key.
 
 ```yml
-school: pt.ipl.pt
+school: pt.ipl.isel
 programmes:
   - acronym: MEIC
     name: Mestrado em Engenharia Informática e de Computadores
-    termSize: 6
+    termSize: 4
     department: ADEETC
     coordination:
       - Teacher A
